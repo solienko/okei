@@ -1,0 +1,3588 @@
+{
+    "Sections": [
+        {
+            "SectionName": "Международные единицы измерения, включенные в ОКЕИ",
+            "Groups": [
+                {
+                    "GroupName": "Единицы длины",
+                    "Uoms": [
+                        {
+                            "Code": "003",
+                            "Name": "Миллиметр",
+                            "SymbolRu": "мм",
+                            "SymbolEn": "mm",
+                            "AlphaRu": "ММ",
+                            "AlphaEn": "MMT"
+                        },
+                        {
+                            "Code": "004",
+                            "Name": "Сантиметр",
+                            "SymbolRu": "см",
+                            "SymbolEn": "cm",
+                            "AlphaRu": "СМ",
+                            "AlphaEn": "CMT"
+                        },
+                        {
+                            "Code": "005",
+                            "Name": "Дециметрt",
+                            "SymbolRu": "дм",
+                            "SymbolEn": "dm",
+                            "AlphaRu": "ДМ",
+                            "AlphaEn": "DMT"
+                        },
+                        {
+                            "Code": "006",
+                            "Name": "Метрt",
+                            "SymbolRu": "м",
+                            "SymbolEn": "m",
+                            "AlphaRu": "М",
+                            "AlphaEn": "MTR"
+                        },
+                        {
+                            "Code": "008",
+                            "Name": "Километр; тысяча метров",
+                            "SymbolRu": "км; 10³ м",
+                            "SymbolEn": "km",
+                            "AlphaRu": "КМ; ТЫС М",
+                            "AlphaEn": "KMT"
+                        },
+                        {
+                            "Code": "009",
+                            "Name": "Мегаметр; миллион метров",
+                            "SymbolRu": "Мм; 10⁶ м",
+                            "SymbolEn": "Mm",
+                            "AlphaRu": "МЕГАМ; МЛН М",
+                            "AlphaEn": "MAM"
+                        },
+                        {
+                            "Code": "039",
+                            "Name": "Дюйм (25,4 мм)",
+                            "SymbolRu": "дюйм",
+                            "SymbolEn": "in",
+                            "AlphaRu": "ДЮЙМ",
+                            "AlphaEn": "INH"
+                        },
+                        {
+                            "Code": "041",
+                            "Name": "Фут (0,3048 м)",
+                            "SymbolRu": "фут",
+                            "SymbolEn": "ft",
+                            "AlphaRu": "ФУТ",
+                            "AlphaEn": "FOT"
+                        },
+                        {
+                            "Code": "043",
+                            "Name": "Ярд (0,9144 м)",
+                            "SymbolRu": "ярд",
+                            "SymbolEn": "yd",
+                            "AlphaRu": "ЯРД",
+                            "AlphaEn": "YRD"
+                        },
+                        {
+                            "Code": "047",
+                            "Name": "Морская миля (1852 м)",
+                            "SymbolRu": "миля",
+                            "SymbolEn": "n mile",
+                            "AlphaRu": "МИЛЬ",
+                            "AlphaEn": "NMI"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Единицы площади",
+                    "Uoms": [
+                        {
+                            "Code": "050",
+                            "Name": "Квадратный миллиметр",
+                            "SymbolRu": "мм²",
+                            "SymbolEn": "mm²",
+                            "AlphaRu": "ММ2",
+                            "AlphaEn": "MMK"
+                        },
+                        {
+                            "Code": "051",
+                            "Name": "Квадратный сантиметр",
+                            "SymbolRu": "см²",
+                            "SymbolEn": "cm²",
+                            "AlphaRu": "СМ2",
+                            "AlphaEn": "CMK"
+                        },
+                        {
+                            "Code": "053",
+                            "Name": "Квадратный дециметр",
+                            "SymbolRu": "дм²",
+                            "SymbolEn": "dm²",
+                            "AlphaRu": "ДМ2",
+                            "AlphaEn": "DMK"
+                        },
+                        {
+                            "Code": "055",
+                            "Name": "Квадратный метр",
+                            "SymbolRu": "м²",
+                            "SymbolEn": "m²",
+                            "AlphaRu": "М2",
+                            "AlphaEn": "MTK"
+                        },
+                        {
+                            "Code": "058",
+                            "Name": "Тысяча квадратных метров",
+                            "SymbolRu": "10³ м²",
+                            "SymbolEn": "daa",
+                            "AlphaRu": "ТЫС М2",
+                            "AlphaEn": "DAA"
+                        },
+                        {
+                            "Code": "059",
+                            "Name": "Гектар",
+                            "SymbolRu": "га",
+                            "SymbolEn": "ha",
+                            "AlphaRu": "ГА",
+                            "AlphaEn": "HAR"
+                        },
+                        {
+                            "Code": "061",
+                            "Name": "Квадратный километр",
+                            "SymbolRu": "км²",
+                            "SymbolEn": "km²",
+                            "AlphaRu": "КМ2",
+                            "AlphaEn": "KMK"
+                        },
+                        {
+                            "Code": "071",
+                            "Name": "Квадратный дюйм (645,16 мм²)",
+                            "SymbolRu": "дюйм²",
+                            "SymbolEn": "in²",
+                            "AlphaRu": "ДЮЙМ2",
+                            "AlphaEn": "INK"
+                        },
+                        {
+                            "Code": "073",
+                            "Name": "Квадратный фут (0,092903 м²)",
+                            "SymbolRu": "фут²",
+                            "SymbolEn": "ft²",
+                            "AlphaRu": "ФУТ2",
+                            "AlphaEn": "FTK"
+                        },
+                        {
+                            "Code": "075",
+                            "Name": "Квадратный ярд (0,8361274 м²)",
+                            "SymbolRu": "ярд²",
+                            "SymbolEn": "yd²",
+                            "AlphaRu": "ЯРД2",
+                            "AlphaEn": "YDK"
+                        },
+                        {
+                            "Code": "109",
+                            "Name": "Ар (100 м²)",
+                            "SymbolRu": "а",
+                            "SymbolEn": "a",
+                            "AlphaRu": "АР",
+                            "AlphaEn": "ARE"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Единицы объема",
+                    "Uoms": [
+                        {
+                            "Code": "110",
+                            "Name": "Кубический миллиметр",
+                            "SymbolRu": "мм³",
+                            "SymbolEn": "mm³",
+                            "AlphaRu": "ММ3",
+                            "AlphaEn": "MMQ"
+                        },
+                        {
+                            "Code": "111",
+                            "Name": "Кубический сантиметр; миллилитр",
+                            "SymbolRu": "см³; мл",
+                            "SymbolEn": "cm³; ml",
+                            "AlphaRu": "СМ3; МЛ",
+                            "AlphaEn": "CMQ; MLT"
+                        },
+                        {
+                            "Code": "112",
+                            "Name": "Кубический дециметр; литр",
+                            "SymbolRu": "дм³; л",
+                            "SymbolEn": "dm³; I; L",
+                            "AlphaRu": "ДМ3; Л",
+                            "AlphaEn": "DMQ; LTR"
+                        },
+                        {
+                            "Code": "113",
+                            "Name": "Кубический метр",
+                            "SymbolRu": "м³",
+                            "SymbolEn": "m³",
+                            "AlphaRu": "М3",
+                            "AlphaEn": "MTQ"
+                        },
+                        {
+                            "Code": "118",
+                            "Name": "Децилитр",
+                            "SymbolRu": "дл",
+                            "SymbolEn": "dl",
+                            "AlphaRu": "ДЛ",
+                            "AlphaEn": "DLT"
+                        },
+                        {
+                            "Code": "122",
+                            "Name": "Гектолитр",
+                            "SymbolRu": "гл",
+                            "SymbolEn": "hl",
+                            "AlphaRu": "ГЛ",
+                            "AlphaEn": "HLT"
+                        },
+                        {
+                            "Code": "126",
+                            "Name": "Мегалитр",
+                            "SymbolRu": "Мл",
+                            "SymbolEn": "Ml",
+                            "AlphaRu": "МЕГАЛ",
+                            "AlphaEn": "MAL"
+                        },
+                        {
+                            "Code": "131",
+                            "Name": "Кубический дюйм (16387,1 мм³)",
+                            "SymbolRu": "дюйм³",
+                            "SymbolEn": "in³",
+                            "AlphaRu": "ДЮЙМ3",
+                            "AlphaEn": "INQ"
+                        },
+                        {
+                            "Code": "132",
+                            "Name": "Кубический фут (0,02831685 м³)",
+                            "SymbolRu": "фут³",
+                            "SymbolEn": "ft³",
+                            "AlphaRu": "ФУТ3",
+                            "AlphaEn": "FTQ"
+                        },
+                        {
+                            "Code": "133",
+                            "Name": "Кубический ярд (0,764555 м³)",
+                            "SymbolRu": "ярд³",
+                            "SymbolEn": "yd³",
+                            "AlphaRu": "ЯРД3",
+                            "AlphaEn": "YDQ"
+                        },
+                        {
+                            "Code": "159",
+                            "Name": "Миллион кубических метров",
+                            "SymbolRu": "10⁶ м³",
+                            "SymbolEn": "10⁶ m³",
+                            "AlphaRu": "МЛН М3",
+                            "AlphaEn": "HMQ"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Единицы массы",
+                    "Uoms": [
+                        {
+                            "Code": "160",
+                            "Name": "Гектограмм",
+                            "SymbolRu": "гг",
+                            "SymbolEn": "hg",
+                            "AlphaRu": "ГГ",
+                            "AlphaEn": "HGM"
+                        },
+                        {
+                            "Code": "161",
+                            "Name": "Миллиграмм",
+                            "SymbolRu": "мг",
+                            "SymbolEn": "mg",
+                            "AlphaRu": "МГ",
+                            "AlphaEn": "MGM"
+                        },
+                        {
+                            "Code": "162",
+                            "Name": "Метрический карат",
+                            "SymbolRu": "кар",
+                            "SymbolEn": "МС",
+                            "AlphaRu": "КАР",
+                            "AlphaEn": "CTM"
+                        },
+                        {
+                            "Code": "163",
+                            "Name": "Грамм",
+                            "SymbolRu": "г",
+                            "SymbolEn": "g",
+                            "AlphaRu": "Г",
+                            "AlphaEn": "GRM"
+                        },
+                        {
+                            "Code": "164",
+                            "Name": "Микрограмм",
+                            "SymbolRu": "мкг",
+                            "SymbolEn": "mg",
+                            "AlphaRu": "МКГ",
+                            "AlphaEn": "MG"
+                        },
+                        {
+                            "Code": "166",
+                            "Name": "Килограмм",
+                            "SymbolRu": "кг",
+                            "SymbolEn": "kg",
+                            "AlphaRu": "КГ",
+                            "AlphaEn": "KGM"
+                        },
+                        {
+                            "Code": "168",
+                            "Name": "Тонна; метрическая тонна (1000 кг)",
+                            "SymbolRu": "т",
+                            "SymbolEn": "t",
+                            "AlphaRu": "Т",
+                            "AlphaEn": "TNE"
+                        },
+                        {
+                            "Code": "170",
+                            "Name": "Килотонна",
+                            "SymbolRu": "10³ т",
+                            "SymbolEn": "kt",
+                            "AlphaRu": "КТ",
+                            "AlphaEn": "KTN"
+                        },
+                        {
+                            "Code": "173",
+                            "Name": "Сантиграмм",
+                            "SymbolRu": "сг",
+                            "SymbolEn": "cg",
+                            "AlphaRu": "СГ",
+                            "AlphaEn": "CGM"
+                        },
+                        {
+                            "Code": "181",
+                            "Name": "Брутто-регистровая тонна (2,8316 м3)",
+                            "SymbolRu": "БРТ",
+                            "SymbolEn": "-",
+                            "AlphaRu": "БРУТТ. РЕГИСТР Т",
+                            "AlphaEn": "GRT"
+                        },
+                        {
+                            "Code": "185",
+                            "Name": "Грузоподъемность в метрических тоннах",
+                            "SymbolRu": "т грп",
+                            "SymbolEn": "-",
+                            "AlphaRu": "Т ГРУЗОПОД",
+                            "AlphaEn": "CCT"
+                        },
+                        {
+                            "Code": "206",
+                            "Name": "Центнер (метрический) (100 кг); гектокилограмм; квинтал1 (метрический); децитонна",
+                            "SymbolRu": "ц",
+                            "SymbolEn": "q; 10² kg",
+                            "AlphaRu": "Ц",
+                            "AlphaEn": "DTN"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Технические единицы",
+                    "Uoms": [
+                        {
+                            "Code": "212",
+                            "Name": "Ватт",
+                            "SymbolRu": "Вт",
+                            "SymbolEn": "W",
+                            "AlphaRu": "ВТ",
+                            "AlphaEn": "WTT"
+                        },
+                        {
+                            "Code": "214",
+                            "Name": "Киловатт",
+                            "SymbolRu": "кВт",
+                            "SymbolEn": "kW",
+                            "AlphaRu": "КВТ",
+                            "AlphaEn": "KWT"
+                        },
+                        {
+                            "Code": "215",
+                            "Name": "Мегаватт; тысяча киловатт",
+                            "SymbolRu": "МВт; 10³ кВт",
+                            "SymbolEn": "MW",
+                            "AlphaRu": "МЕГАВТ; ТЫС КВТ",
+                            "AlphaEn": "MAW"
+                        },
+                        {
+                            "Code": "222",
+                            "Name": "Вольт",
+                            "SymbolRu": "В",
+                            "SymbolEn": "V",
+                            "AlphaRu": "В",
+                            "AlphaEn": "VLT"
+                        },
+                        {
+                            "Code": "223",
+                            "Name": "Киловольт",
+                            "SymbolRu": "кВ",
+                            "SymbolEn": "kV",
+                            "AlphaRu": "КВ",
+                            "AlphaEn": "KVT"
+                        },
+                        {
+                            "Code": "227",
+                            "Name": "Киловольт-ампер",
+                            "SymbolRu": "кВ·А",
+                            "SymbolEn": "kV·А",
+                            "AlphaRu": "КВ·А",
+                            "AlphaEn": "KVA"
+                        },
+                        {
+                            "Code": "228",
+                            "Name": "Мегавольт-ампер (тысяча киловольт-ампер)",
+                            "SymbolRu": "МВ·А",
+                            "SymbolEn": "МV·А",
+                            "AlphaRu": "МЕГАВ·А",
+                            "AlphaEn": "MVA"
+                        },
+                        {
+                            "Code": "230",
+                            "Name": "Киловар",
+                            "SymbolRu": "квар",
+                            "SymbolEn": "kVAR",
+                            "AlphaRu": "КВАР",
+                            "AlphaEn": "KVR"
+                        },
+                        {
+                            "Code": "243",
+                            "Name": "Ватт-час",
+                            "SymbolRu": "Вт·ч",
+                            "SymbolEn": "W·h",
+                            "AlphaRu": "ВТ·Ч",
+                            "AlphaEn": "WHR"
+                        },
+                        {
+                            "Code": "245",
+                            "Name": "Киловатт-час",
+                            "SymbolRu": "кВт·ч",
+                            "SymbolEn": "kW·h",
+                            "AlphaRu": "КВТ·Ч",
+                            "AlphaEn": "KWH"
+                        },
+                        {
+                            "Code": "246",
+                            "Name": "Мегаватт-час; 1000 киловатт-часов",
+                            "SymbolRu": "МВт·ч; 10³ кВт·ч",
+                            "SymbolEn": "МW·h",
+                            "AlphaRu": "МЕГАВТ·Ч; ТЫС КВТ·Ч",
+                            "AlphaEn": "MWH"
+                        },
+                        {
+                            "Code": "247",
+                            "Name": "Гигаватт-час (миллион киловатт-часов)",
+                            "SymbolRu": "ГВт·ч",
+                            "SymbolEn": "GW·h",
+                            "AlphaRu": "ГИГАВТ·Ч",
+                            "AlphaEn": "GWH"
+                        },
+                        {
+                            "Code": "260",
+                            "Name": "Ампер",
+                            "SymbolRu": "А",
+                            "SymbolEn": "A",
+                            "AlphaRu": "А",
+                            "AlphaEn": "AMP"
+                        },
+                        {
+                            "Code": "263",
+                            "Name": "Ампер-час (3,6 кКл)",
+                            "SymbolRu": "А·ч",
+                            "SymbolEn": "А·h",
+                            "AlphaRu": "А·Ч",
+                            "AlphaEn": "AMH"
+                        },
+                        {
+                            "Code": "264",
+                            "Name": "Тысяча ампер-часов",
+                            "SymbolRu": "10³ А·ч",
+                            "SymbolEn": "10³ А·h",
+                            "AlphaRu": "ТЫС А·Ч",
+                            "AlphaEn": "TAH"
+                        },
+                        {
+                            "Code": "270",
+                            "Name": "Кулон",
+                            "SymbolRu": "Кл",
+                            "SymbolEn": "C",
+                            "AlphaRu": "КЛ",
+                            "AlphaEn": "COU"
+                        },
+                        {
+                            "Code": "271",
+                            "Name": "Джоуль",
+                            "SymbolRu": "Дж",
+                            "SymbolEn": "J",
+                            "AlphaRu": "ДЖ",
+                            "AlphaEn": "JOU"
+                        },
+                        {
+                            "Code": "273",
+                            "Name": "Килоджоуль",
+                            "SymbolRu": "кДж",
+                            "SymbolEn": "kJ",
+                            "AlphaRu": "КДЖ",
+                            "AlphaEn": "KJO"
+                        },
+                        {
+                            "Code": "274",
+                            "Name": "Ом",
+                            "SymbolRu": "Ом",
+                            "SymbolEn": "Ω",
+                            "AlphaRu": "ОМ",
+                            "AlphaEn": "OHM"
+                        },
+                        {
+                            "Code": "276",
+                            "Name": "Грей",
+                            "SymbolRu": "Гр",
+                            "SymbolEn": "Gy",
+                            "AlphaRu": "ГР",
+                            "AlphaEn": "GY"
+                        },
+                        {
+                            "Code": "277",
+                            "Name": "Микрогрей",
+                            "SymbolRu": "мкГр",
+                            "SymbolEn": "μGy",
+                            "AlphaRu": "МКГР",
+                            "AlphaEn": "MKGY"
+                        },
+                        {
+                            "Code": "278",
+                            "Name": "Миллигрей",
+                            "SymbolRu": "мГр",
+                            "SymbolEn": "mGy",
+                            "AlphaRu": "МЛГР",
+                            "AlphaEn": "MGY"
+                        },
+                        {
+                            "Code": "279",
+                            "Name": "Килогрей",
+                            "SymbolRu": "кГр",
+                            "SymbolEn": "kGy",
+                            "AlphaRu": "КИЛОГР",
+                            "AlphaEn": "KGY"
+                        },
+                        {
+                            "Code": "280",
+                            "Name": "Градус Цельсия",
+                            "SymbolRu": "°C",
+                            "SymbolEn": "°C",
+                            "AlphaRu": "ГРАД ЦЕЛЬС",
+                            "AlphaEn": "CEL"
+                        },
+                        {
+                            "Code": "281",
+                            "Name": "Градус Фаренгейта",
+                            "SymbolRu": "°F",
+                            "SymbolEn": "°F",
+                            "AlphaRu": "ГРАД ФАРЕНГ",
+                            "AlphaEn": "FAN"
+                        },
+                        {
+                            "Code": "282",
+                            "Name": "Кандела",
+                            "SymbolRu": "кд",
+                            "SymbolEn": "cd",
+                            "AlphaRu": "КД",
+                            "AlphaEn": "CDL"
+                        },
+                        {
+                            "Code": "283",
+                            "Name": "Люкс",
+                            "SymbolRu": "лк",
+                            "SymbolEn": "lx",
+                            "AlphaRu": "ЛК",
+                            "AlphaEn": "LUX"
+                        },
+                        {
+                            "Code": "284",
+                            "Name": "Люмен",
+                            "SymbolRu": "лм",
+                            "SymbolEn": "lm",
+                            "AlphaRu": "ЛМ",
+                            "AlphaEn": "LUM"
+                        },
+                        {
+                            "Code": "288",
+                            "Name": "Кельвин",
+                            "SymbolRu": "К",
+                            "SymbolEn": "K",
+                            "AlphaRu": "К",
+                            "AlphaEn": "KEL"
+                        },
+                        {
+                            "Code": "289",
+                            "Name": "Ньютон",
+                            "SymbolRu": "Н",
+                            "SymbolEn": "N",
+                            "AlphaRu": "Н",
+                            "AlphaEn": "NEW"
+                        },
+                        {
+                            "Code": "290",
+                            "Name": "Герц",
+                            "SymbolRu": "Гц",
+                            "SymbolEn": "Hz",
+                            "AlphaRu": "ГЦ",
+                            "AlphaEn": "HTZ"
+                        },
+                        {
+                            "Code": "291",
+                            "Name": "Килогерц",
+                            "SymbolRu": "кГц",
+                            "SymbolEn": "kHz",
+                            "AlphaRu": "КГЦ",
+                            "AlphaEn": "KHZ"
+                        },
+                        {
+                            "Code": "292",
+                            "Name": "Мегагерц",
+                            "SymbolRu": "МГц",
+                            "SymbolEn": "MHz",
+                            "AlphaRu": "МЕГАГЦ",
+                            "AlphaEn": "MHZ"
+                        },
+                        {
+                            "Code": "293",
+                            "Name": "Гигагерц",
+                            "SymbolRu": "ГГц",
+                            "SymbolEn": "GHz",
+                            "AlphaRu": "ГИГАГЦ",
+                            "AlphaEn": "GHZ"
+                        },
+                        {
+                            "Code": "294",
+                            "Name": "Паскаль",
+                            "SymbolRu": "Па",
+                            "SymbolEn": "Pa",
+                            "AlphaRu": "ПА",
+                            "AlphaEn": "PAL"
+                        },
+                        {
+                            "Code": "295",
+                            "Name": "Терагерц",
+                            "SymbolRu": "ТГц",
+                            "SymbolEn": "THz",
+                            "AlphaRu": "ТЕРАГЦ",
+                            "AlphaEn": "THZ"
+                        },
+                        {
+                            "Code": "296",
+                            "Name": "Сименс",
+                            "SymbolRu": "См",
+                            "SymbolEn": "S",
+                            "AlphaRu": "СИ",
+                            "AlphaEn": "SIE"
+                        },
+                        {
+                            "Code": "297",
+                            "Name": "Килопаскаль",
+                            "SymbolRu": "кПа",
+                            "SymbolEn": "kPa",
+                            "AlphaRu": "КПА",
+                            "AlphaEn": "KPA"
+                        },
+                        {
+                            "Code": "298",
+                            "Name": "Мегапаскаль",
+                            "SymbolRu": "МПа",
+                            "SymbolEn": "MPa",
+                            "AlphaRu": "МЕГАПА",
+                            "AlphaEn": "MPA"
+                        },
+                        {
+                            "Code": "300",
+                            "Name": "Физическая атмосфера (101325 Па)",
+                            "SymbolRu": "атм",
+                            "SymbolEn": "atm",
+                            "AlphaRu": "АТМ",
+                            "AlphaEn": "ATM"
+                        },
+                        {
+                            "Code": "301",
+                            "Name": "Техническая атмосфера (98066,5 Па)",
+                            "SymbolRu": "ат",
+                            "SymbolEn": "at",
+                            "AlphaRu": "АТТ",
+                            "AlphaEn": "ATT"
+                        },
+                        {
+                            "Code": "302",
+                            "Name": "Гигабеккерель",
+                            "SymbolRu": "ГБк",
+                            "SymbolEn": "GBq",
+                            "AlphaRu": "ГИГАБК",
+                            "AlphaEn": "GBQ"
+                        },
+                        {
+                            "Code": "303",
+                            "Name": "Килобеккерель",
+                            "SymbolRu": "кБк",
+                            "SymbolEn": "kBq",
+                            "AlphaRu": "КИЛОБК",
+                            "AlphaEn": "KBQ"
+                        },
+                        {
+                            "Code": "304",
+                            "Name": "Милликюри",
+                            "SymbolRu": "мКи",
+                            "SymbolEn": "mCi",
+                            "AlphaRu": "МКИ",
+                            "AlphaEn": "MCU"
+                        },
+                        {
+                            "Code": "305",
+                            "Name": "Кюри",
+                            "SymbolRu": "Ки",
+                            "SymbolEn": "Ci",
+                            "AlphaRu": "КИ",
+                            "AlphaEn": "CUR"
+                        },
+                        {
+                            "Code": "306",
+                            "Name": "Грамм делящихся изотопов",
+                            "SymbolRu": "г Д\/И",
+                            "SymbolEn": "g fissile isotopes",
+                            "AlphaRu": "Г ДЕЛЯЩ ИЗОТОП",
+                            "AlphaEn": "GFI"
+                        },
+                        {
+                            "Code": "307",
+                            "Name": "Мегабеккерель",
+                            "SymbolRu": "МБк",
+                            "SymbolEn": "MBq",
+                            "AlphaRu": "МЕГАБК",
+                            "AlphaEn": "MBQ"
+                        },
+                        {
+                            "Code": "308",
+                            "Name": "Миллибар",
+                            "SymbolRu": "мб",
+                            "SymbolEn": "mbar",
+                            "AlphaRu": "МБАР",
+                            "AlphaEn": "MBR"
+                        },
+                        {
+                            "Code": "309",
+                            "Name": "Бар",
+                            "SymbolRu": "бар",
+                            "SymbolEn": "bar",
+                            "AlphaRu": "БАР",
+                            "AlphaEn": "BAR"
+                        },
+                        {
+                            "Code": "310",
+                            "Name": "Гектобар",
+                            "SymbolRu": "гб",
+                            "SymbolEn": "hbar",
+                            "AlphaRu": "ГБАР",
+                            "AlphaEn": "HBA"
+                        },
+                        {
+                            "Code": "312",
+                            "Name": "Килобар",
+                            "SymbolRu": "кб",
+                            "SymbolEn": "kbar",
+                            "AlphaRu": "КБАР",
+                            "AlphaEn": "KBA"
+                        },
+                        {
+                            "Code": "314",
+                            "Name": "Фарад",
+                            "SymbolRu": "Ф",
+                            "SymbolEn": "F",
+                            "AlphaRu": "Ф",
+                            "AlphaEn": "FAR"
+                        },
+                        {
+                            "Code": "316",
+                            "Name": "Килограмм на кубический метр",
+                            "SymbolRu": "кг\/м³",
+                            "SymbolEn": "kg\/m³",
+                            "AlphaRu": "КГ\/М3",
+                            "AlphaEn": "KMQ"
+                        },
+                        {
+                            "Code": "318",
+                            "Name": "Зиверт",
+                            "SymbolRu": "Зв",
+                            "SymbolEn": "Sv",
+                            "AlphaRu": "ЗВ",
+                            "AlphaEn": "SV"
+                        },
+                        {
+                            "Code": "319",
+                            "Name": "Микрозиверт",
+                            "SymbolRu": "мкЗв",
+                            "SymbolEn": "μSv",
+                            "AlphaRu": "МКЗВ",
+                            "AlphaEn": "MKSV"
+                        },
+                        {
+                            "Code": "320",
+                            "Name": "Моль",
+                            "SymbolRu": "моль",
+                            "SymbolEn": "mol",
+                            "AlphaRu": "МОЛЬ",
+                            "AlphaEn": "MOL"
+                        },
+                        {
+                            "Code": "321",
+                            "Name": "Миллизиверт",
+                            "SymbolRu": "мЗв",
+                            "SymbolEn": "mSv",
+                            "AlphaRu": "МЗВ",
+                            "AlphaEn": "MSV"
+                        },
+                        {
+                            "Code": "323",
+                            "Name": "Беккерель",
+                            "SymbolRu": "Бк",
+                            "SymbolEn": "Bq",
+                            "AlphaRu": "БК",
+                            "AlphaEn": "BQL"
+                        },
+                        {
+                            "Code": "324",
+                            "Name": "Вебер",
+                            "SymbolRu": "Вб",
+                            "SymbolEn": "Wb",
+                            "AlphaRu": "ВБ",
+                            "AlphaEn": "WEB"
+                        },
+                        {
+                            "Code": "327",
+                            "Name": "Узел (миля\/ч)",
+                            "SymbolRu": "уз",
+                            "SymbolEn": "kn",
+                            "AlphaRu": "УЗ",
+                            "AlphaEn": "KNT"
+                        },
+                        {
+                            "Code": "328",
+                            "Name": "Метр в секунду",
+                            "SymbolRu": "м\/с",
+                            "SymbolEn": "m\/s",
+                            "AlphaRu": "М\/С",
+                            "AlphaEn": "MTS"
+                        },
+                        {
+                            "Code": "330",
+                            "Name": "Оборот в секунду",
+                            "SymbolRu": "об\/с",
+                            "SymbolEn": "r\/s",
+                            "AlphaRu": "ОБ\/С",
+                            "AlphaEn": "RPS"
+                        },
+                        {
+                            "Code": "331",
+                            "Name": "Оборот в минуту",
+                            "SymbolRu": "об\/мин",
+                            "SymbolEn": "r\/min",
+                            "AlphaRu": "ОБ\/МИН",
+                            "AlphaEn": "RPM"
+                        },
+                        {
+                            "Code": "333",
+                            "Name": "Километр в час",
+                            "SymbolRu": "км\/ч",
+                            "SymbolEn": "km\/h",
+                            "AlphaRu": "КМ\/Ч",
+                            "AlphaEn": "KMH"
+                        },
+                        {
+                            "Code": "335",
+                            "Name": "Метр на секунду в квадрате",
+                            "SymbolRu": "м\/с²",
+                            "SymbolEn": "m\/s²",
+                            "AlphaRu": "М\/С2",
+                            "AlphaEn": "MSK"
+                        },
+                        {
+                            "Code": "349",
+                            "Name": "Кулон на килограмм",
+                            "SymbolRu": "Кл\/кг",
+                            "SymbolEn": "C\/kg",
+                            "AlphaRu": "КЛ\/КГ",
+                            "AlphaEn": "CKG"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Единицы времени",
+                    "Uoms": [
+                        {
+                            "Code": "354",
+                            "Name": "Секунда",
+                            "SymbolRu": "с",
+                            "SymbolEn": "s",
+                            "AlphaRu": "С",
+                            "AlphaEn": "SEC"
+                        },
+                        {
+                            "Code": "355",
+                            "Name": "Минута",
+                            "SymbolRu": "мин",
+                            "SymbolEn": "min",
+                            "AlphaRu": "МИН",
+                            "AlphaEn": "MIN"
+                        },
+                        {
+                            "Code": "356",
+                            "Name": "Час",
+                            "SymbolRu": "ч",
+                            "SymbolEn": "h",
+                            "AlphaRu": "Ч",
+                            "AlphaEn": "HUR"
+                        },
+                        {
+                            "Code": "359",
+                            "Name": "Сутки",
+                            "SymbolRu": "сут; дн",
+                            "SymbolEn": "d",
+                            "AlphaRu": "СУТ; ДН",
+                            "AlphaEn": "DAY"
+                        },
+                        {
+                            "Code": "360",
+                            "Name": "Неделя",
+                            "SymbolRu": "нед",
+                            "SymbolEn": "-",
+                            "AlphaRu": "НЕД",
+                            "AlphaEn": "WEE"
+                        },
+                        {
+                            "Code": "361",
+                            "Name": "Декада",
+                            "SymbolRu": "дек",
+                            "SymbolEn": "-",
+                            "AlphaRu": "ДЕК",
+                            "AlphaEn": "DAD"
+                        },
+                        {
+                            "Code": "362",
+                            "Name": "Месяц",
+                            "SymbolRu": "мес",
+                            "SymbolEn": "-",
+                            "AlphaRu": "МЕС",
+                            "AlphaEn": "MON"
+                        },
+                        {
+                            "Code": "364",
+                            "Name": "Квартал",
+                            "SymbolRu": "кварт",
+                            "SymbolEn": "-",
+                            "AlphaRu": "КВАРТ",
+                            "AlphaEn": "QAN"
+                        },
+                        {
+                            "Code": "365",
+                            "Name": "Полугодие",
+                            "SymbolRu": "полгода",
+                            "SymbolEn": "-",
+                            "AlphaRu": "ПОЛГОД",
+                            "AlphaEn": "SAN"
+                        },
+                        {
+                            "Code": "366",
+                            "Name": "Год",
+                            "SymbolRu": "г; лет",
+                            "SymbolEn": "a",
+                            "AlphaRu": "ГОД; ЛЕТ",
+                            "AlphaEn": "ANN"
+                        },
+                        {
+                            "Code": "368",
+                            "Name": "Десятилетие",
+                            "SymbolRu": "деслет",
+                            "SymbolEn": "-",
+                            "AlphaRu": "ДЕСЛЕТ",
+                            "AlphaEn": "DEC"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Экономические единицы",
+                    "Uoms": [
+                        {
+                            "Code": "499",
+                            "Name": "Килограмм в секунду",
+                            "SymbolRu": "кг\/с",
+                            "SymbolEn": "—",
+                            "AlphaRu": "КГ\/С",
+                            "AlphaEn": "KGS"
+                        },
+                        {
+                            "Code": "533",
+                            "Name": "Тонна пара в час",
+                            "SymbolRu": "т пар\/ч",
+                            "SymbolEn": "—",
+                            "AlphaRu": "Т ПАР\/Ч",
+                            "AlphaEn": "TSH"
+                        },
+                        {
+                            "Code": "596",
+                            "Name": "Кубический метр в секунду",
+                            "SymbolRu": "м³\/с",
+                            "SymbolEn": "m³\/s",
+                            "AlphaRu": "М3\/С",
+                            "AlphaEn": "MQS"
+                        },
+                        {
+                            "Code": "598",
+                            "Name": "Кубический метр в час",
+                            "SymbolRu": "м³\/ч",
+                            "SymbolEn": "m³\/h",
+                            "AlphaRu": "М3\/Ч",
+                            "AlphaEn": "MQH"
+                        },
+                        {
+                            "Code": "599",
+                            "Name": "Тысяча кубических метров в сутки",
+                            "SymbolRu": "10³ м³\/сут",
+                            "SymbolEn": "—",
+                            "AlphaRu": "ТЫС М3\/СУТ",
+                            "AlphaEn": "TQD"
+                        },
+                        {
+                            "Code": "616",
+                            "Name": "Бобина",
+                            "SymbolRu": "боб",
+                            "SymbolEn": "—",
+                            "AlphaRu": "БОБ",
+                            "AlphaEn": "NBB"
+                        },
+                        {
+                            "Code": "625",
+                            "Name": "Лист",
+                            "SymbolRu": "л.",
+                            "SymbolEn": "—",
+                            "AlphaRu": "ЛИСТ",
+                            "AlphaEn": "LEF"
+                        },
+                        {
+                            "Code": "626",
+                            "Name": "Сто листов",
+                            "SymbolRu": "100 л.",
+                            "SymbolEn": "—",
+                            "AlphaRu": "100 ЛИСТ",
+                            "AlphaEn": "CLF"
+                        },
+                        {
+                            "Code": "630",
+                            "Name": "Тысяча стандартных условных кирпичей",
+                            "SymbolRu": "тыс. станд. усл. кирп",
+                            "SymbolEn": "—",
+                            "AlphaRu": "ТЫС СТАНД УСЛ КИРП",
+                            "AlphaEn": "MBE"
+                        },
+                        {
+                            "Code": "641",
+                            "Name": "Дюжина (12 шт.)",
+                            "SymbolRu": "дюжина",
+                            "SymbolEn": "Doz; 12",
+                            "AlphaRu": "ДЮЖИНА",
+                            "AlphaEn": "DZN"
+                        },
+                        {
+                            "Code": "657",
+                            "Name": "Изделие",
+                            "SymbolRu": "изд",
+                            "SymbolEn": "—",
+                            "AlphaRu": "ИЗД",
+                            "AlphaEn": "NAR"
+                        },
+                        {
+                            "Code": "683",
+                            "Name": "Сто ящиков",
+                            "SymbolRu": "100 ящ",
+                            "SymbolEn": "Hbx",
+                            "AlphaRu": "100 ЯЩ",
+                            "AlphaEn": "HBX"
+                        },
+                        {
+                            "Code": "704",
+                            "Name": "Набор",
+                            "SymbolRu": "набор",
+                            "SymbolEn": "—",
+                            "AlphaRu": "НАБОР",
+                            "AlphaEn": "SET"
+                        },
+                        {
+                            "Code": "715",
+                            "Name": "Пара (2 шт.)",
+                            "SymbolRu": "пар",
+                            "SymbolEn": "pr; 2",
+                            "AlphaRu": "ПАР",
+                            "AlphaEn": "NPR"
+                        },
+                        {
+                            "Code": "730",
+                            "Name": "Два десятка",
+                            "SymbolRu": "20",
+                            "SymbolEn": "20",
+                            "AlphaRu": "2 ДЕС",
+                            "AlphaEn": "SCO"
+                        },
+                        {
+                            "Code": "732",
+                            "Name": "Десять пар",
+                            "SymbolRu": "10 пар",
+                            "SymbolEn": "—",
+                            "AlphaRu": "ДЕС ПАР",
+                            "AlphaEn": "TPR"
+                        },
+                        {
+                            "Code": "733",
+                            "Name": "Дюжина пар",
+                            "SymbolRu": "дюжина пар",
+                            "SymbolEn": "—",
+                            "AlphaRu": "ДЮЖИНА ПАР",
+                            "AlphaEn": "DPR"
+                        },
+                        {
+                            "Code": "734",
+                            "Name": "Посылка",
+                            "SymbolRu": "посыл",
+                            "SymbolEn": "—",
+                            "AlphaRu": "ПОСЫЛ",
+                            "AlphaEn": "NPL"
+                        },
+                        {
+                            "Code": "735",
+                            "Name": "Часть",
+                            "SymbolRu": "часть",
+                            "SymbolEn": "—",
+                            "AlphaRu": "ЧАСТЬ",
+                            "AlphaEn": "NPT"
+                        },
+                        {
+                            "Code": "736",
+                            "Name": "Рулон",
+                            "SymbolRu": "рул",
+                            "SymbolEn": "—",
+                            "AlphaRu": "РУЛ",
+                            "AlphaEn": "NRL"
+                        },
+                        {
+                            "Code": "737",
+                            "Name": "Дюжина рулонов",
+                            "SymbolRu": "дюжина рул",
+                            "SymbolEn": "—",
+                            "AlphaRu": "ДЮЖИНА РУЛ",
+                            "AlphaEn": "DRL"
+                        },
+                        {
+                            "Code": "740",
+                            "Name": "Дюжина штук",
+                            "SymbolRu": "дюжина шт",
+                            "SymbolEn": "—",
+                            "AlphaRu": "ДЮЖИНА ШТ",
+                            "AlphaEn": "DPC"
+                        },
+                        {
+                            "Code": "745",
+                            "Name": "Элемент",
+                            "SymbolRu": "элем",
+                            "SymbolEn": "CI",
+                            "AlphaRu": "ЭЛЕМ",
+                            "AlphaEn": "NCL"
+                        },
+                        {
+                            "Code": "778",
+                            "Name": "Упаковка",
+                            "SymbolRu": "упак",
+                            "SymbolEn": "—",
+                            "AlphaRu": "УПАК",
+                            "AlphaEn": "NMP"
+                        },
+                        {
+                            "Code": "780",
+                            "Name": "Дюжина упаковок",
+                            "SymbolRu": "дюжина упак",
+                            "SymbolEn": "—",
+                            "AlphaRu": "ДЮЖИНА УПАК",
+                            "AlphaEn": "DZP"
+                        },
+                        {
+                            "Code": "781",
+                            "Name": "Сто упаковок",
+                            "SymbolRu": "100 упак",
+                            "SymbolEn": "—",
+                            "AlphaRu": "100 УПАК",
+                            "AlphaEn": "CNP"
+                        },
+                        {
+                            "Code": "796",
+                            "Name": "Штука",
+                            "SymbolRu": "шт",
+                            "SymbolEn": "pc; 1",
+                            "AlphaRu": "ШТ",
+                            "AlphaEn": "PCE; NMB"
+                        },
+                        {
+                            "Code": "797",
+                            "Name": "Сто штук",
+                            "SymbolRu": "100 шт",
+                            "SymbolEn": "100",
+                            "AlphaRu": "100 ШТ",
+                            "AlphaEn": "CEN"
+                        },
+                        {
+                            "Code": "798",
+                            "Name": "Тысяча штук",
+                            "SymbolRu": "тыс. шт; 1000 шт",
+                            "SymbolEn": "1000",
+                            "AlphaRu": "ТЫС ШТ",
+                            "AlphaEn": "MIL"
+                        },
+                        {
+                            "Code": "799",
+                            "Name": "Миллион штук",
+                            "SymbolRu": "10⁶ шт",
+                            "SymbolEn": "10⁶",
+                            "AlphaRu": "МЛН ШТ",
+                            "AlphaEn": "MIO"
+                        },
+                        {
+                            "Code": "800",
+                            "Name": "Миллиард штук",
+                            "SymbolRu": "10⁹ шт",
+                            "SymbolEn": "10⁹",
+                            "AlphaRu": "МЛРД ШТ",
+                            "AlphaEn": "MLD"
+                        },
+                        {
+                            "Code": "801",
+                            "Name": "Биллион штук (Европа); триллион штук",
+                            "SymbolRu": "10¹² шт",
+                            "SymbolEn": "10¹²",
+                            "AlphaRu": "БИЛЛ ШТ (ЕВР); ТРИЛЛ ШТ",
+                            "AlphaEn": "BIL"
+                        },
+                        {
+                            "Code": "802",
+                            "Name": "Квинтильон штук (Европа)",
+                            "SymbolRu": "10¹⁸ шт",
+                            "SymbolEn": "10¹⁸",
+                            "AlphaRu": "КВИНТ ШТ",
+                            "AlphaEn": "TRL"
+                        },
+                        {
+                            "Code": "820",
+                            "Name": "Крепость спирта по массе",
+                            "SymbolRu": "креп. спирта по массе",
+                            "SymbolEn": "% mds",
+                            "AlphaRu": "КРЕП СПИРТ ПО МАСС",
+                            "AlphaEn": "ASM"
+                        },
+                        {
+                            "Code": "821",
+                            "Name": "Крепость спирта по объему",
+                            "SymbolRu": "креп. спирта по объему",
+                            "SymbolEn": "% vol",
+                            "AlphaRu": "КРЕП СПИРТ ПО ОБЪЕМ",
+                            "AlphaEn": "ASV"
+                        },
+                        {
+                            "Code": "831",
+                            "Name": "Литр чистого (100%) спирта",
+                            "SymbolRu": "л 100% спирта",
+                            "SymbolEn": "—",
+                            "AlphaRu": "Л ЧИСТ СПИРТ",
+                            "AlphaEn": "LPA"
+                        },
+                        {
+                            "Code": "833",
+                            "Name": "Гектолитр чистого (100%) спирта",
+                            "SymbolRu": "Гл 100% спирта",
+                            "SymbolEn": "—",
+                            "AlphaRu": "ГЛ ЧИСТ СПИРТ",
+                            "AlphaEn": "HPA"
+                        },
+                        {
+                            "Code": "841",
+                            "Name": "Килограмм пероксида водорода",
+                            "SymbolRu": "кг H₂О₂",
+                            "SymbolEn": "—",
+                            "AlphaRu": "КГ ПЕРОКСИД ВОДОРОДА",
+                            "AlphaEn": "—"
+                        },
+                        {
+                            "Code": "845",
+                            "Name": "Килограмм 90%-го сухого вещества",
+                            "SymbolRu": "кг 90% с\/в",
+                            "SymbolEn": "—",
+                            "AlphaRu": "КГ 90 ПРОЦ СУХ ВЕЩ",
+                            "AlphaEn": "KSD"
+                        },
+                        {
+                            "Code": "847",
+                            "Name": "Тонна 90%-го сухого вещества",
+                            "SymbolRu": "т 90% с\/в",
+                            "SymbolEn": "—",
+                            "AlphaRu": "Т 90 ПРОЦ СУХ ВЕЩ",
+                            "AlphaEn": "TSD"
+                        },
+                        {
+                            "Code": "852",
+                            "Name": "Килограмм оксида калия",
+                            "SymbolRu": "кг К₂О",
+                            "SymbolEn": "—",
+                            "AlphaRu": "КГ ОКСИД КАЛИЯ",
+                            "AlphaEn": "KPO"
+                        },
+                        {
+                            "Code": "859",
+                            "Name": "Килограмм гидроксида калия",
+                            "SymbolRu": "кг КОН",
+                            "SymbolEn": "—",
+                            "AlphaRu": "КГ ГИДРОКСИД КАЛИЯ",
+                            "AlphaEn": "KPH"
+                        },
+                        {
+                            "Code": "861",
+                            "Name": "Килограмм азота",
+                            "SymbolRu": "кг N",
+                            "SymbolEn": "—",
+                            "AlphaRu": "КГ АЗОТ",
+                            "AlphaEn": "KNI"
+                        },
+                        {
+                            "Code": "863",
+                            "Name": "Килограмм гидроксида натрия",
+                            "SymbolRu": "кг NaOH",
+                            "SymbolEn": "—",
+                            "AlphaRu": "КГ ГИДРОКСИД НАТРИЯ",
+                            "AlphaEn": "KSH"
+                        },
+                        {
+                            "Code": "865",
+                            "Name": "Килограмм пятиокиси фосфора",
+                            "SymbolRu": "кг Р₂О₅",
+                            "SymbolEn": "—",
+                            "AlphaRu": "КГ ПЯТИОКИСЬ ФОСФОРА",
+                            "AlphaEn": "KPP"
+                        },
+                        {
+                            "Code": "867",
+                            "Name": "Килограмм урана",
+                            "SymbolRu": "кг U",
+                            "SymbolEn": "—",
+                            "AlphaRu": "КГ УРАН",
+                            "AlphaEn": "KUR"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionName": "Национальные единицы измерения, включенные в ОКЕИ",
+            "Groups": [
+                {
+                    "GroupName": "Единицы длины",
+                    "Uoms": [
+                        {
+                            "Code": "018",
+                            "Name": "Погонный метр",
+                            "SymbolRu": "пог. м",
+                            "AlphaRu": "ПОГ М"
+                        },
+                        {
+                            "Code": "019",
+                            "Name": "Тысяча погонных метров",
+                            "SymbolRu": "10³ пог. м",
+                            "AlphaRu": "ТЫС ПОГ М"
+                        },
+                        {
+                            "Code": "020",
+                            "Name": "Условный метр",
+                            "SymbolRu": "усл. м",
+                            "AlphaRu": "УСЛ М"
+                        },
+                        {
+                            "Code": "048",
+                            "Name": "Тысяча условных метров",
+                            "SymbolRu": "10³ усл. м",
+                            "AlphaRu": "ТЫС УСЛ М"
+                        },
+                        {
+                            "Code": "049",
+                            "Name": "Километр условных труб",
+                            "SymbolRu": "км усл. труб",
+                            "AlphaRu": "КМ УСЛ ТРУБ"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Единицы площади",
+                    "Uoms": [
+                        {
+                            "Code": "054",
+                            "Name": "Тысяча квадратных дециметров",
+                            "SymbolRu": "10³ дм²",
+                            "AlphaRu": "ТЫС ДМ2"
+                        },
+                        {
+                            "Code": "056",
+                            "Name": "Миллион квадратных дециметров",
+                            "SymbolRu": "10⁶ дм²",
+                            "AlphaRu": "МЛН ДМ2"
+                        },
+                        {
+                            "Code": "057",
+                            "Name": "Миллион квадратных метров",
+                            "SymbolRu": "10⁶ м²",
+                            "AlphaRu": "МЛН М2"
+                        },
+                        {
+                            "Code": "060",
+                            "Name": "Тысяча гектаров",
+                            "SymbolRu": "10³ га",
+                            "AlphaRu": "ТЫС ГА"
+                        },
+                        {
+                            "Code": "062",
+                            "Name": "Условный квадратный метр",
+                            "SymbolRu": "усл. м²",
+                            "AlphaRu": "УСЛ М2"
+                        },
+                        {
+                            "Code": "063",
+                            "Name": "Тысяча условных квадратных метров",
+                            "SymbolRu": "10³ усл. м²",
+                            "AlphaRu": "ТЫС УСЛ М2"
+                        },
+                        {
+                            "Code": "064",
+                            "Name": "Миллион условных квадратных метров",
+                            "SymbolRu": "10⁶ усл. м²",
+                            "AlphaRu": "МЛН УСЛ М2"
+                        },
+                        {
+                            "Code": "081",
+                            "Name": "Квадратный метр общей площади",
+                            "SymbolRu": "м² общ. пл",
+                            "AlphaRu": "М2 ОБЩ ПЛ"
+                        },
+                        {
+                            "Code": "082",
+                            "Name": "Тысяча квадратных метров общей площади",
+                            "SymbolRu": "10³ м² общ. пл",
+                            "AlphaRu": "ТЫС М2 ОБЩ ПЛ"
+                        },
+                        {
+                            "Code": "083",
+                            "Name": "Миллион квадратных метров общей площади",
+                            "SymbolRu": "10⁶ м² общ. пл",
+                            "AlphaRu": "МЛН М2 ОБЩ ПЛ"
+                        },
+                        {
+                            "Code": "084",
+                            "Name": "Квадратный метр жилой площади",
+                            "SymbolRu": "м² жил. пл",
+                            "AlphaRu": "М2 ЖИЛ ПЛ"
+                        },
+                        {
+                            "Code": "085",
+                            "Name": "Тысяча квадратных метров жилой площади",
+                            "SymbolRu": "10³ м² жил. пл",
+                            "AlphaRu": "ТЫС М2 ЖИЛ ПЛ"
+                        },
+                        {
+                            "Code": "086",
+                            "Name": "Миллион квадратных метров жилой площади",
+                            "SymbolRu": "10⁶ м² жил. пл",
+                            "AlphaRu": "МЛН М2 ЖИЛ ПЛ"
+                        },
+                        {
+                            "Code": "087",
+                            "Name": "Квадратный метр учебно-лабораторных зданий",
+                            "SymbolRu": "м² уч. лаб. здан",
+                            "AlphaRu": "М2 УЧ. ЛАБ ЗДАН"
+                        },
+                        {
+                            "Code": "088",
+                            "Name": "Тысяча квадратных метров учебно-лабораторных зданий",
+                            "SymbolRu": "10³ м² уч. лаб. здан",
+                            "AlphaRu": "ТЫС М2 УЧ. ЛАБ ЗДАН"
+                        },
+                        {
+                            "Code": "089",
+                            "Name": "Миллион квадратных метров в двухмиллиметровом исчислении",
+                            "SymbolRu": "10⁶ м² 2 мм исч",
+                            "AlphaRu": "МЛН М2 2ММ ИСЧ"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Единицы объема",
+                    "Uoms": [
+                        {
+                            "Code": "114",
+                            "Name": "Тысяча кубических метров",
+                            "SymbolRu": "10³ м³",
+                            "AlphaRu": "ТЫС М3"
+                        },
+                        {
+                            "Code": "115",
+                            "Name": "Миллиард кубических метров",
+                            "SymbolRu": "10⁹ м³",
+                            "AlphaRu": "МЛРД М3"
+                        },
+                        {
+                            "Code": "116",
+                            "Name": "Декалитр",
+                            "SymbolRu": "дкл",
+                            "AlphaRu": "ДКЛ"
+                        },
+                        {
+                            "Code": "119",
+                            "Name": "Тысяча декалитров",
+                            "SymbolRu": "10³ дкл",
+                            "AlphaRu": "ТЫС ДКЛ"
+                        },
+                        {
+                            "Code": "120",
+                            "Name": "Миллион декалитров",
+                            "SymbolRu": "10⁶ дкл",
+                            "AlphaRu": "МЛН ДКЛ"
+                        },
+                        {
+                            "Code": "121",
+                            "Name": "Плотный кубический метр",
+                            "SymbolRu": "плотн. м³",
+                            "AlphaRu": "ПЛОТН М3"
+                        },
+                        {
+                            "Code": "123",
+                            "Name": "Условный кубический метр",
+                            "SymbolRu": "усл. м³",
+                            "AlphaRu": "УСЛ М3"
+                        },
+                        {
+                            "Code": "124",
+                            "Name": "Тысяча условных кубических метров",
+                            "SymbolRu": "10³ усл. м³",
+                            "AlphaRu": "ТЫС УСЛ М3"
+                        },
+                        {
+                            "Code": "125",
+                            "Name": "Миллион кубических метров переработки газа",
+                            "SymbolRu": "10⁶ м³ перераб. газа",
+                            "AlphaRu": "МЛН М3 ПЕРЕРАБ ГАЗА"
+                        },
+                        {
+                            "Code": "127",
+                            "Name": "Тысяча плотных кубических метров",
+                            "SymbolRu": "10³ плотн. м³",
+                            "AlphaRu": "ТЫС ПЛОТН М3"
+                        },
+                        {
+                            "Code": "128",
+                            "Name": "Тысяча полулитров",
+                            "SymbolRu": "10³ пол. л",
+                            "AlphaRu": "ТЫС ПОЛ Л"
+                        },
+                        {
+                            "Code": "129",
+                            "Name": "Миллион полулитров",
+                            "SymbolRu": "10⁶ пол. л",
+                            "AlphaRu": "МЛН ПОЛ Л"
+                        },
+                        {
+                            "Code": "130",
+                            "Name": "Тысяча литров; 1000 литров",
+                            "SymbolRu": "10³ л; 1000 л",
+                            "AlphaRu": "ТЫС Л"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Единицы массы",
+                    "Uoms": [
+                        {
+                            "Code": "165",
+                            "Name": "Тысяча каратов метрических",
+                            "SymbolRu": "10³ кар",
+                            "AlphaRu": "ТЫС КАР"
+                        },
+                        {
+                            "Code": "167",
+                            "Name": "Миллион каратов метрических",
+                            "SymbolRu": "10⁶ кар",
+                            "AlphaRu": "МЛН КАР"
+                        },
+                        {
+                            "Code": "169",
+                            "Name": "Тысяча тонн",
+                            "SymbolRu": "10³ т",
+                            "AlphaRu": "ТЫС Т"
+                        },
+                        {
+                            "Code": "171",
+                            "Name": "Миллион тонн",
+                            "SymbolRu": "10⁶ т",
+                            "AlphaRu": "МЛН Т"
+                        },
+                        {
+                            "Code": "172",
+                            "Name": "Тонна условного топлива",
+                            "SymbolRu": "т усл. топл",
+                            "AlphaRu": "Т УСЛ ТОПЛ"
+                        },
+                        {
+                            "Code": "175",
+                            "Name": "Тысяча тонн условного топлива",
+                            "SymbolRu": "10³ т усл. топл",
+                            "AlphaRu": "ТЫС Т УСЛ ТОПЛ"
+                        },
+                        {
+                            "Code": "176",
+                            "Name": "Миллион тонн условного топлива",
+                            "SymbolRu": "10⁶ т усл. топл",
+                            "AlphaRu": "МЛН Т УСЛ ТОПЛ"
+                        },
+                        {
+                            "Code": "177",
+                            "Name": "Тысяча тонн единовременного хранения",
+                            "SymbolRu": "10³ т единовр. хран",
+                            "AlphaRu": "ТЫС Т ЕДИНОВР ХРАН"
+                        },
+                        {
+                            "Code": "178",
+                            "Name": "Тысяча тонн переработки",
+                            "SymbolRu": "10³ т перераб",
+                            "AlphaRu": "ТЫС Т ПЕРЕРАБ"
+                        },
+                        {
+                            "Code": "179",
+                            "Name": "Условная тонна",
+                            "SymbolRu": "усл. т",
+                            "AlphaRu": "УСЛ Т"
+                        },
+                        {
+                            "Code": "207",
+                            "Name": "Тысяча центнеров",
+                            "SymbolRu": "10³ ц",
+                            "AlphaRu": "ТЫС Ц"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Технические единицы",
+                    "Uoms": [
+                        {
+                            "Code": "226",
+                            "Name": "Вольт-ампер",
+                            "SymbolRu": "В·А",
+                            "AlphaRu": "В·А"
+                        },
+                        {
+                            "Code": "231",
+                            "Name": "Метр в час",
+                            "SymbolRu": "м\/ч",
+                            "AlphaRu": "М\/Ч"
+                        },
+                        {
+                            "Code": "232",
+                            "Name": "Килокалория",
+                            "SymbolRu": "ккал",
+                            "AlphaRu": "ККАЛ"
+                        },
+                        {
+                            "Code": "233",
+                            "Name": "Гигакалория",
+                            "SymbolRu": "Гкал",
+                            "AlphaRu": "ГИГАКАЛ"
+                        },
+                        {
+                            "Code": "234",
+                            "Name": "Тысяча гигакалорий",
+                            "SymbolRu": "10³ Гкал",
+                            "AlphaRu": "ТЫС ГИГАКАЛ"
+                        },
+                        {
+                            "Code": "235",
+                            "Name": "Миллион гигакалорий",
+                            "SymbolRu": "10⁶ Гкал",
+                            "AlphaRu": "МЛН ГИГАКАЛ"
+                        },
+                        {
+                            "Code": "236",
+                            "Name": "Калория в час",
+                            "SymbolRu": "кал\/ч",
+                            "AlphaRu": "КАЛ\/Ч"
+                        },
+                        {
+                            "Code": "237",
+                            "Name": "Килокалория в час",
+                            "SymbolRu": "ккал\/ч",
+                            "AlphaRu": "ККАЛ\/Ч"
+                        },
+                        {
+                            "Code": "238",
+                            "Name": "Гигакалория в час",
+                            "SymbolRu": "Гкал\/ч",
+                            "AlphaRu": "ГИГАКАЛ\/Ч"
+                        },
+                        {
+                            "Code": "239",
+                            "Name": "Тысяча гигакалорий в час",
+                            "SymbolRu": "10³ Гкал\/ч",
+                            "AlphaRu": "ТЫС ГИГАКАЛ\/Ч"
+                        },
+                        {
+                            "Code": "241",
+                            "Name": "Миллион ампер-часов",
+                            "SymbolRu": "10⁶ А·ч",
+                            "AlphaRu": "МЛН А·Ч"
+                        },
+                        {
+                            "Code": "242",
+                            "Name": "Миллион киловольт-ампер",
+                            "SymbolRu": "10⁶ кВ·А",
+                            "AlphaRu": "МЛН КВ·А"
+                        },
+                        {
+                            "Code": "248",
+                            "Name": "Киловольт-ампер реактивный",
+                            "SymbolRu": "кВ·А Р",
+                            "AlphaRu": "КВ·А Р"
+                        },
+                        {
+                            "Code": "249",
+                            "Name": "Миллиард киловатт-часов",
+                            "SymbolRu": "10⁹ кВт·ч",
+                            "AlphaRu": "МЛРД КВТ·Ч"
+                        },
+                        {
+                            "Code": "250",
+                            "Name": "Тысяча киловольт-ампер реактивных",
+                            "SymbolRu": "10³ кВ·А Р",
+                            "AlphaRu": "ТЫС КВ·А Р"
+                        },
+                        {
+                            "Code": "251",
+                            "Name": "Лошадиная сила",
+                            "SymbolRu": "л. с",
+                            "AlphaRu": "ЛС"
+                        },
+                        {
+                            "Code": "252",
+                            "Name": "Тысяча лошадиных сил",
+                            "SymbolRu": "10³ л. с",
+                            "AlphaRu": "ТЫС ЛС"
+                        },
+                        {
+                            "Code": "253",
+                            "Name": "Миллион лошадиных сил",
+                            "SymbolRu": "10⁶ л. с",
+                            "AlphaRu": "МЛН ЛС"
+                        },
+                        {
+                            "Code": "254",
+                            "Name": "Бит",
+                            "SymbolRu": "бит",
+                            "AlphaRu": "БИТ"
+                        },
+                        {
+                            "Code": "255",
+                            "Name": "Байт",
+                            "SymbolRu": "байт",
+                            "AlphaRu": "БАЙТ"
+                        },
+                        {
+                            "Code": "256",
+                            "Name": "Килобайт",
+                            "SymbolRu": "кбайт",
+                            "AlphaRu": "КБАЙТ"
+                        },
+                        {
+                            "Code": "257",
+                            "Name": "Мегабайт",
+                            "SymbolRu": "Мбайт",
+                            "AlphaRu": "МБАЙТ"
+                        },
+                        {
+                            "Code": "258",
+                            "Name": "Бод",
+                            "SymbolRu": "бод",
+                            "AlphaRu": "БОД"
+                        },
+                        {
+                            "Code": "287",
+                            "Name": "Генри",
+                            "SymbolRu": "Гн",
+                            "AlphaRu": "ГН"
+                        },
+                        {
+                            "Code": "313",
+                            "Name": "Тесла",
+                            "SymbolRu": "Тл",
+                            "AlphaRu": "ТЛ"
+                        },
+                        {
+                            "Code": "317",
+                            "Name": "Килограмм на квадратный сантиметр",
+                            "SymbolRu": "кг\/см²",
+                            "AlphaRu": "КГ\/СМ2"
+                        },
+                        {
+                            "Code": "337",
+                            "Name": "Миллиметр водяного столба",
+                            "SymbolRu": "мм вод. ст",
+                            "AlphaRu": "ММ ВОД СТ"
+                        },
+                        {
+                            "Code": "338",
+                            "Name": "Миллиметр ртутного столба",
+                            "SymbolRu": "мм рт. ст",
+                            "AlphaRu": "ММ РТ СТ"
+                        },
+                        {
+                            "Code": "339",
+                            "Name": "Сантиметр водяного столба",
+                            "SymbolRu": "см вод. ст",
+                            "AlphaRu": "СМ ВОД СТ"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Единицы времени",
+                    "Uoms": [
+                        {
+                            "Code": "348",
+                            "Name": "Фемтосекунда",
+                            "SymbolRu": "фс",
+                            "AlphaRu": "ФС"
+                        },
+                        {
+                            "Code": "350",
+                            "Name": "Пикосекунда",
+                            "SymbolRu": "пс",
+                            "AlphaRu": "ПС"
+                        },
+                        {
+                            "Code": "351",
+                            "Name": "Наносекунда",
+                            "SymbolRu": "нс",
+                            "AlphaRu": "НС"
+                        },
+                        {
+                            "Code": "352",
+                            "Name": "Микросекунда",
+                            "SymbolRu": "мкс",
+                            "AlphaRu": "МКС"
+                        },
+                        {
+                            "Code": "353",
+                            "Name": "Миллисекунда",
+                            "SymbolRu": "млс",
+                            "AlphaRu": "МЛС"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Экономические единицы",
+                    "Uoms": [
+                        {
+                            "Code": "383",
+                            "Name": "Рубль",
+                            "SymbolRu": "руб",
+                            "AlphaRu": "РУБ"
+                        },
+                        {
+                            "Code": "384",
+                            "Name": "Тысяча рублей",
+                            "SymbolRu": "10³ руб",
+                            "AlphaRu": "ТЫС РУБ"
+                        },
+                        {
+                            "Code": "385",
+                            "Name": "Миллион рублей",
+                            "SymbolRu": "10⁶ руб",
+                            "AlphaRu": "МЛН РУБ"
+                        },
+                        {
+                            "Code": "386",
+                            "Name": "Миллиард рублей",
+                            "SymbolRu": "10⁹ руб",
+                            "AlphaRu": "МЛРД РУБ"
+                        },
+                        {
+                            "Code": "387",
+                            "Name": "Триллион рублей",
+                            "SymbolRu": "10¹² руб",
+                            "AlphaRu": "ТРИЛЛ РУБ"
+                        },
+                        {
+                            "Code": "388",
+                            "Name": "Квадрильон рублей",
+                            "SymbolRu": "10¹⁵ руб",
+                            "AlphaRu": "КВАДР РУБ"
+                        },
+                        {
+                            "Code": "414",
+                            "Name": "Пассажиро-километр",
+                            "SymbolRu": "пасс·км",
+                            "AlphaRu": "ПАСС·КМ"
+                        },
+                        {
+                            "Code": "421",
+                            "Name": "Пассажирское место (пассажирских мест)",
+                            "SymbolRu": "пасс. мест",
+                            "AlphaRu": "ПАСС. МЕСТ"
+                        },
+                        {
+                            "Code": "423",
+                            "Name": "Тысяча пассажиро-километров",
+                            "SymbolRu": "10³ пасс·км",
+                            "AlphaRu": "ТЫС ПАСС·КМ"
+                        },
+                        {
+                            "Code": "424",
+                            "Name": "Миллион пассажиро-километров",
+                            "SymbolRu": "10⁶ пасс·км",
+                            "AlphaRu": "МЛН ПАСС·КМ"
+                        },
+                        {
+                            "Code": "427",
+                            "Name": "Пассажиропоток",
+                            "SymbolRu": "пасс. поток",
+                            "AlphaRu": "ПАСС. ПОТОК"
+                        },
+                        {
+                            "Code": "449",
+                            "Name": "Тонно-километр",
+                            "SymbolRu": "т·км",
+                            "AlphaRu": "Т·КМ"
+                        },
+                        {
+                            "Code": "450",
+                            "Name": "Тысяча тонно-километров",
+                            "SymbolRu": "10³ т·км",
+                            "AlphaRu": "ТЫС Т·КМ"
+                        },
+                        {
+                            "Code": "451",
+                            "Name": "Миллион тонно-километров",
+                            "SymbolRu": "10⁶ т·км",
+                            "AlphaRu": "МЛН Т·КМ"
+                        },
+                        {
+                            "Code": "479",
+                            "Name": "Тысяча наборов",
+                            "SymbolRu": "10³ набор",
+                            "AlphaRu": "ТЫС НАБОР"
+                        },
+                        {
+                            "Code": "508",
+                            "Name": "Тысяча метров кубических в час",
+                            "SymbolRu": "10³ м3\/ч",
+                            "AlphaRu": "ТЫС М3\/Ч"
+                        },
+                        {
+                            "Code": "509",
+                            "Name": "Километр в сутки",
+                            "SymbolRu": "км\/сут",
+                            "AlphaRu": "КМ\/СУТ"
+                        },
+                        {
+                            "Code": "510",
+                            "Name": "Грамм на киловатт-час",
+                            "SymbolRu": "г\/кВт·ч",
+                            "AlphaRu": "Г\/КВТ·Ч"
+                        },
+                        {
+                            "Code": "511",
+                            "Name": "Килограмм на гигакалорию",
+                            "SymbolRu": "кг\/Гкал",
+                            "AlphaRu": "КГ\/ГИГАКАЛ"
+                        },
+                        {
+                            "Code": "512",
+                            "Name": "Тонно-номер",
+                            "SymbolRu": "т·ном",
+                            "AlphaRu": "Т·НОМ"
+                        },
+                        {
+                            "Code": "513",
+                            "Name": "Автотонна",
+                            "SymbolRu": "авто т",
+                            "AlphaRu": "АВТО Т"
+                        },
+                        {
+                            "Code": "514",
+                            "Name": "Тонна тяги",
+                            "SymbolRu": "т тяги",
+                            "AlphaRu": "Т ТЯГИ"
+                        },
+                        {
+                            "Code": "515",
+                            "Name": "Дедвейт-тонна",
+                            "SymbolRu": "дедвейт·т",
+                            "AlphaRu": "ДЕДВЕЙТ·Т"
+                        },
+                        {
+                            "Code": "516",
+                            "Name": "Тонно-танид",
+                            "SymbolRu": "т·танид",
+                            "AlphaRu": "Т·ТАНИД"
+                        },
+                        {
+                            "Code": "521",
+                            "Name": "Человек на квадратный метр",
+                            "SymbolRu": "чел\/м2",
+                            "AlphaRu": "ЧЕЛ\/М2"
+                        },
+                        {
+                            "Code": "522",
+                            "Name": "Человек на квадратный километр",
+                            "SymbolRu": "чел\/км2",
+                            "AlphaRu": "ЧЕЛ\/КМ2"
+                        },
+                        {
+                            "Code": "534",
+                            "Name": "Тонна в час",
+                            "SymbolRu": "т\/ч",
+                            "AlphaRu": "Т\/Ч"
+                        },
+                        {
+                            "Code": "535",
+                            "Name": "Тонна в сутки",
+                            "SymbolRu": "т\/сут",
+                            "AlphaRu": "Т\/СУТ"
+                        },
+                        {
+                            "Code": "536",
+                            "Name": "Тонна в смену",
+                            "SymbolRu": "т\/смен",
+                            "AlphaRu": "Т\/СМЕН"
+                        },
+                        {
+                            "Code": "537",
+                            "Name": "Тысяча тонн в сезон",
+                            "SymbolRu": "10³ т\/сез",
+                            "AlphaRu": "ТЫС Т\/СЕЗ"
+                        },
+                        {
+                            "Code": "538",
+                            "Name": "Тысяча тонн в год",
+                            "SymbolRu": "10³ т\/год",
+                            "AlphaRu": "ТЫС Т\/ГОД"
+                        },
+                        {
+                            "Code": "539",
+                            "Name": "Человеко-час",
+                            "SymbolRu": "чел·ч",
+                            "AlphaRu": "ЧЕЛ·Ч"
+                        },
+                        {
+                            "Code": "540",
+                            "Name": "Человеко-день",
+                            "SymbolRu": "чел·дн",
+                            "AlphaRu": "ЧЕЛ·ДН"
+                        },
+                        {
+                            "Code": "541",
+                            "Name": "Тысяча человеко-дней",
+                            "SymbolRu": "10³ чел·дн",
+                            "AlphaRu": "ТЫС ЧЕЛ·ДН"
+                        },
+                        {
+                            "Code": "542",
+                            "Name": "Тысяча человеко-часов",
+                            "SymbolRu": "10³ чел·ч",
+                            "AlphaRu": "ТЫС ЧЕЛ·Ч"
+                        },
+                        {
+                            "Code": "543",
+                            "Name": "Тысяча условных банок в смену",
+                            "SymbolRu": "10³ усл. банк\/смен",
+                            "AlphaRu": "ТЫС УСЛ БАНК\/СМЕН"
+                        },
+                        {
+                            "Code": "544",
+                            "Name": "Миллион единиц в год",
+                            "SymbolRu": "10⁶ ед\/год",
+                            "AlphaRu": "МЛН ЕД\/ГОД"
+                        },
+                        {
+                            "Code": "545",
+                            "Name": "Посещение в смену",
+                            "SymbolRu": "посещ\/смен",
+                            "AlphaRu": "ПОСЕЩ\/СМЕН"
+                        },
+                        {
+                            "Code": "546",
+                            "Name": "Тысяча посещений в смену",
+                            "SymbolRu": "10³ посещ\/смен",
+                            "AlphaRu": "ТЫС ПОСЕЩ\/СМЕН"
+                        },
+                        {
+                            "Code": "547",
+                            "Name": "Пара в смену",
+                            "SymbolRu": "пар\/смен",
+                            "AlphaRu": "ПАР\/СМЕН"
+                        },
+                        {
+                            "Code": "548",
+                            "Name": "Тысяча пар в смену",
+                            "SymbolRu": "10³ пар\/смен",
+                            "AlphaRu": "ТЫС ПАР\/СМЕН"
+                        },
+                        {
+                            "Code": "550",
+                            "Name": "Миллион тонн в год",
+                            "SymbolRu": "10⁶ т\/год",
+                            "AlphaRu": "МЛН Т\/ГОД"
+                        },
+                        {
+                            "Code": "552",
+                            "Name": "Тонна переработки в сутки",
+                            "SymbolRu": "т перераб\/сут",
+                            "AlphaRu": "Т ПЕРЕРАБ\/СУТ"
+                        },
+                        {
+                            "Code": "553",
+                            "Name": "Тысяча тонн переработки в сутки",
+                            "SymbolRu": "10³ т перераб\/сут",
+                            "AlphaRu": "ТЫС Т ПЕРЕРАБ\/СУТ"
+                        },
+                        {
+                            "Code": "554",
+                            "Name": "Центнер переработки в сутки",
+                            "SymbolRu": "ц перераб\/сут",
+                            "AlphaRu": "Ц ПЕРЕРАБ\/СУТ"
+                        },
+                        {
+                            "Code": "555",
+                            "Name": "Тысяча центнеров переработки в сутки",
+                            "SymbolRu": "10³ ц перераб\/сут",
+                            "AlphaRu": "ТЫС Ц ПЕРЕРАБ\/СУТ"
+                        },
+                        {
+                            "Code": "556",
+                            "Name": "Тысяча голов в год",
+                            "SymbolRu": "10³ гол\/год",
+                            "AlphaRu": "ТЫС ГОЛ\/ГОД"
+                        },
+                        {
+                            "Code": "557",
+                            "Name": "Миллион голов в год",
+                            "SymbolRu": "10⁶ гол\/год",
+                            "AlphaRu": "МЛН ГОЛ\/ГОД"
+                        },
+                        {
+                            "Code": "558",
+                            "Name": "Тысяча птицемест",
+                            "SymbolRu": "10³ птицемест",
+                            "AlphaRu": "ТЫС ПТИЦЕМЕСТ"
+                        },
+                        {
+                            "Code": "559",
+                            "Name": "Тысяча кур-несушек",
+                            "SymbolRu": "10³ кур. несуш",
+                            "AlphaRu": "ТЫС КУР. НЕСУШ"
+                        },
+                        {
+                            "Code": "561",
+                            "Name": "Тысяча тонн пара в час",
+                            "SymbolRu": "10³ т пар\/ч",
+                            "AlphaRu": "ТЫС Т ПАР\/Ч"
+                        },
+                        {
+                            "Code": "562",
+                            "Name": "Тысяча прядильных веретен",
+                            "SymbolRu": "10³ пряд. верет",
+                            "AlphaRu": "ТЫС ПРЯД ВЕРЕТ"
+                        },
+                        {
+                            "Code": "563",
+                            "Name": "Тысяча прядильных мест",
+                            "SymbolRu": "10³ пряд. мест",
+                            "AlphaRu": "ТЫС ПРЯД МЕСТ"
+                        },
+                        {
+                            "Code": "639",
+                            "Name": "Доза",
+                            "SymbolRu": "доз",
+                            "AlphaRu": "ДОЗ"
+                        },
+                        {
+                            "Code": "640",
+                            "Name": "Тысяча доз",
+                            "SymbolRu": "10³ доз",
+                            "AlphaRu": "ТЫС ДОЗ"
+                        },
+                        {
+                            "Code": "642",
+                            "Name": "Единица",
+                            "SymbolRu": "ед",
+                            "AlphaRu": "ЕД"
+                        },
+                        {
+                            "Code": "643",
+                            "Name": "Тысяча единиц",
+                            "SymbolRu": "10³ ед",
+                            "AlphaRu": "ТЫС ЕД"
+                        },
+                        {
+                            "Code": "644",
+                            "Name": "Миллион единиц",
+                            "SymbolRu": "10⁶ ед",
+                            "AlphaRu": "МЛН ЕД"
+                        },
+                        {
+                            "Code": "661",
+                            "Name": "Канал",
+                            "SymbolRu": "канал",
+                            "AlphaRu": "КАНАЛ"
+                        },
+                        {
+                            "Code": "673",
+                            "Name": "Тысяча комплектов",
+                            "SymbolRu": "10³ компл",
+                            "AlphaRu": "ТЫС КОМПЛ"
+                        },
+                        {
+                            "Code": "698",
+                            "Name": "Место",
+                            "SymbolRu": "мест",
+                            "AlphaRu": "МЕСТ"
+                        },
+                        {
+                            "Code": "699",
+                            "Name": "Тысяча мест",
+                            "SymbolRu": "10³ мест",
+                            "AlphaRu": "ТЫС МЕСТ"
+                        },
+                        {
+                            "Code": "709",
+                            "Name": "Тысяча номеров",
+                            "SymbolRu": "10³ ном",
+                            "AlphaRu": "ТЫС НОМ"
+                        },
+                        {
+                            "Code": "724",
+                            "Name": "Тысяча гектаров порций",
+                            "SymbolRu": "10³ га порц",
+                            "AlphaRu": "ТЫС ГА ПОРЦ"
+                        },
+                        {
+                            "Code": "728",
+                            "Name": "Пачка",
+                            "SymbolRu": "пач",
+                            "AlphaRu": "ПАЧ"
+                        },
+                        {
+                            "Code": "729",
+                            "Name": "Тысяча пачек",
+                            "SymbolRu": "10³ пач",
+                            "AlphaRu": "ТЫС ПАЧ"
+                        },
+                        {
+                            "Code": "744",
+                            "Name": "Процент",
+                            "SymbolRu": "%",
+                            "AlphaRu": "ПРОЦ"
+                        },
+                        {
+                            "Code": "746",
+                            "Name": "Промилле (0,1 процента)",
+                            "SymbolRu": "‰",
+                            "AlphaRu": "ПРОМИЛЛЕ"
+                        },
+                        {
+                            "Code": "751",
+                            "Name": "Тысяча рулонов",
+                            "SymbolRu": "10³ рул",
+                            "AlphaRu": "ТЫС РУЛ"
+                        },
+                        {
+                            "Code": "761",
+                            "Name": "Тысяча станов",
+                            "SymbolRu": "10³ стан",
+                            "AlphaRu": "ТЫС СТАН"
+                        },
+                        {
+                            "Code": "762",
+                            "Name": "Станция",
+                            "SymbolRu": "станц",
+                            "AlphaRu": "СТАНЦ"
+                        },
+                        {
+                            "Code": "775",
+                            "Name": "Тысяча тюбиков",
+                            "SymbolRu": "10³ тюбик",
+                            "AlphaRu": "ТЫС ТЮБИК"
+                        },
+                        {
+                            "Code": "776",
+                            "Name": "Тысяча условных тубов",
+                            "SymbolRu": "10³ усл. туб",
+                            "AlphaRu": "ТЫС УСЛ ТУБ"
+                        },
+                        {
+                            "Code": "779",
+                            "Name": "Миллион упаковок",
+                            "SymbolRu": "10⁶ упак",
+                            "AlphaRu": "МЛН УПАК"
+                        },
+                        {
+                            "Code": "782",
+                            "Name": "Тысяча упаковок",
+                            "SymbolRu": "10³ упак",
+                            "AlphaRu": "ТЫС УПАК"
+                        },
+                        {
+                            "Code": "792",
+                            "Name": "Человек",
+                            "SymbolRu": "чел",
+                            "AlphaRu": "ЧЕЛ"
+                        },
+                        {
+                            "Code": "793",
+                            "Name": "Тысяча человек",
+                            "SymbolRu": "10³ чел",
+                            "AlphaRu": "ТЫС ЧЕЛ"
+                        },
+                        {
+                            "Code": "794",
+                            "Name": "Миллион человек",
+                            "SymbolRu": "10⁶ чел",
+                            "AlphaRu": "МЛН ЧЕЛ"
+                        },
+                        {
+                            "Code": "808",
+                            "Name": "Миллион экземпляров",
+                            "SymbolRu": "10⁶ экз",
+                            "AlphaRu": "МЛН ЭКЗ"
+                        },
+                        {
+                            "Code": "810",
+                            "Name": "Ячейка",
+                            "SymbolRu": "яч",
+                            "AlphaRu": "ЯЧ"
+                        },
+                        {
+                            "Code": "812",
+                            "Name": "Ящик",
+                            "SymbolRu": "ящ",
+                            "AlphaRu": "ЯЩ"
+                        },
+                        {
+                            "Code": "836",
+                            "Name": "Голова",
+                            "SymbolRu": "гол",
+                            "AlphaRu": "ГОЛ"
+                        },
+                        {
+                            "Code": "837",
+                            "Name": "Тысяча пар",
+                            "SymbolRu": "10³ пар",
+                            "AlphaRu": "ТЫС ПАР"
+                        },
+                        {
+                            "Code": "838",
+                            "Name": "Миллион пар",
+                            "SymbolRu": "10⁶ пар",
+                            "AlphaRu": "МЛН ПАР"
+                        },
+                        {
+                            "Code": "839",
+                            "Name": "Комплект",
+                            "SymbolRu": "компл",
+                            "AlphaRu": "КОМПЛ"
+                        },
+                        {
+                            "Code": "840",
+                            "Name": "Секция",
+                            "SymbolRu": "секц",
+                            "AlphaRu": "СЕКЦ"
+                        },
+                        {
+                            "Code": "868",
+                            "Name": "Бутылка",
+                            "SymbolRu": "бут",
+                            "AlphaRu": "БУТ"
+                        },
+                        {
+                            "Code": "869",
+                            "Name": "Тысяча бутылок",
+                            "SymbolRu": "10³ бут",
+                            "AlphaRu": "ТЫС БУТ"
+                        },
+                        {
+                            "Code": "870",
+                            "Name": "Ампула",
+                            "SymbolRu": "ампул",
+                            "AlphaRu": "АМПУЛ"
+                        },
+                        {
+                            "Code": "871",
+                            "Name": "Тысяча ампул",
+                            "SymbolRu": "10³ ампул",
+                            "AlphaRu": "ТЫС АМПУЛ"
+                        },
+                        {
+                            "Code": "872",
+                            "Name": "Флакон",
+                            "SymbolRu": "флак",
+                            "AlphaRu": "ФЛАК"
+                        },
+                        {
+                            "Code": "873",
+                            "Name": "Тысяча флаконов",
+                            "SymbolRu": "10³ флак",
+                            "AlphaRu": "ТЫС ФЛАК"
+                        },
+                        {
+                            "Code": "874",
+                            "Name": "Тысяча тубов",
+                            "SymbolRu": "10³ туб",
+                            "AlphaRu": "ТЫС ТУБ"
+                        },
+                        {
+                            "Code": "875",
+                            "Name": "Тысяча коробок",
+                            "SymbolRu": "10³ кор",
+                            "AlphaRu": "ТЫС КОР"
+                        },
+                        {
+                            "Code": "876",
+                            "Name": "Условная единица",
+                            "SymbolRu": "усл. ед",
+                            "AlphaRu": "УСЛ ЕД"
+                        },
+                        {
+                            "Code": "877",
+                            "Name": "Тысяча условных единиц",
+                            "SymbolRu": "10³ усл. ед",
+                            "AlphaRu": "ТЫС УСЛ ЕД"
+                        },
+                        {
+                            "Code": "878",
+                            "Name": "Миллион условных единиц",
+                            "SymbolRu": "10⁶ усл. ед",
+                            "AlphaRu": "МЛН УСЛ ЕД"
+                        },
+                        {
+                            "Code": "879",
+                            "Name": "Условная штука",
+                            "SymbolRu": "усл. шт",
+                            "AlphaRu": "УСЛ ШТ"
+                        },
+                        {
+                            "Code": "880",
+                            "Name": "Тысяча условных штук",
+                            "SymbolRu": "10³ усл. шт",
+                            "AlphaRu": "ТЫС УСЛ ШТ"
+                        },
+                        {
+                            "Code": "881",
+                            "Name": "Условная банка",
+                            "SymbolRu": "усл. банк",
+                            "AlphaRu": "УСЛ БАНК"
+                        },
+                        {
+                            "Code": "882",
+                            "Name": "Тысяча условных банок",
+                            "SymbolRu": "10³ усл. банк",
+                            "AlphaRu": "ТЫС УСЛ БАНК"
+                        },
+                        {
+                            "Code": "883",
+                            "Name": "Миллион условных банок",
+                            "SymbolRu": "10⁶ усл. банк",
+                            "AlphaRu": "МЛН УСЛ БАНК"
+                        },
+                        {
+                            "Code": "884",
+                            "Name": "Условный кусок",
+                            "SymbolRu": "усл. кус",
+                            "AlphaRu": "УСЛ КУС"
+                        },
+                        {
+                            "Code": "885",
+                            "Name": "Тысяча условных кусков",
+                            "SymbolRu": "10³ усл. кус",
+                            "AlphaRu": "ТЫС УСЛ КУС"
+                        },
+                        {
+                            "Code": "886",
+                            "Name": "Миллион условных кусков",
+                            "SymbolRu": "10⁶ усл. кус",
+                            "AlphaRu": "МЛН УСЛ КУС"
+                        },
+                        {
+                            "Code": "887",
+                            "Name": "Условный ящик",
+                            "SymbolRu": "усл. ящ",
+                            "AlphaRu": "УСЛ ЯЩ"
+                        },
+                        {
+                            "Code": "888",
+                            "Name": "Тысяча условных ящиков",
+                            "SymbolRu": "10³ усл. ящ",
+                            "AlphaRu": "ТЫС УСЛ ЯЩ"
+                        },
+                        {
+                            "Code": "889",
+                            "Name": "Условная катушка",
+                            "SymbolRu": "усл. кат",
+                            "AlphaRu": "УСЛ КАТ"
+                        },
+                        {
+                            "Code": "890",
+                            "Name": "Тысяча условных катушек",
+                            "SymbolRu": "10³ усл. кат",
+                            "AlphaRu": "ТЫС УСЛ КАТ"
+                        },
+                        {
+                            "Code": "891",
+                            "Name": "Условная плитка",
+                            "SymbolRu": "усл. плит",
+                            "AlphaRu": "УСЛ ПЛИТ"
+                        },
+                        {
+                            "Code": "892",
+                            "Name": "Тысяча условных плиток",
+                            "SymbolRu": "10³ усл. плит",
+                            "AlphaRu": "ТЫС УСЛ ПЛИТ"
+                        },
+                        {
+                            "Code": "893",
+                            "Name": "Условный кирпич",
+                            "SymbolRu": "усл. кирп",
+                            "AlphaRu": "УСЛ КИРП"
+                        },
+                        {
+                            "Code": "894",
+                            "Name": "Тысяча условных кирпичей",
+                            "SymbolRu": "10³ усл. кирп",
+                            "AlphaRu": "ТЫС УСЛ КИРП"
+                        },
+                        {
+                            "Code": "895",
+                            "Name": "Миллион условных кирпичей",
+                            "SymbolRu": "10⁶ усл. кирп",
+                            "AlphaRu": "МЛН УСЛ КИРП"
+                        },
+                        {
+                            "Code": "896",
+                            "Name": "Семья",
+                            "SymbolRu": "семей",
+                            "AlphaRu": "СЕМЕЙ"
+                        },
+                        {
+                            "Code": "897",
+                            "Name": "Тысяча семей",
+                            "SymbolRu": "10³ семей",
+                            "AlphaRu": "ТЫС СЕМЕЙ"
+                        },
+                        {
+                            "Code": "898",
+                            "Name": "Миллион семей",
+                            "SymbolRu": "10⁶ семей",
+                            "AlphaRu": "МЛН СЕМЕЙ"
+                        },
+                        {
+                            "Code": "899",
+                            "Name": "Домохозяйство",
+                            "SymbolRu": "домхоз",
+                            "AlphaRu": "ДОМХОЗ"
+                        },
+                        {
+                            "Code": "900",
+                            "Name": "Тысяча домохозяйств",
+                            "SymbolRu": "10³ домхоз",
+                            "AlphaRu": "ТЫС ДОМХОЗ"
+                        },
+                        {
+                            "Code": "901",
+                            "Name": "Миллион домохозяйств",
+                            "SymbolRu": "10⁶ домхоз",
+                            "AlphaRu": "МЛН ДОМХОЗ"
+                        },
+                        {
+                            "Code": "902",
+                            "Name": "Ученическое место",
+                            "SymbolRu": "учен. мест",
+                            "AlphaRu": "УЧЕН МЕСТ"
+                        },
+                        {
+                            "Code": "903",
+                            "Name": "Тысяча ученических мест",
+                            "SymbolRu": "10³ учен. мест",
+                            "AlphaRu": "ТЫС УЧЕН МЕСТ"
+                        },
+                        {
+                            "Code": "904",
+                            "Name": "Рабочее место",
+                            "SymbolRu": "раб. мест",
+                            "AlphaRu": "РАБ МЕСТ"
+                        },
+                        {
+                            "Code": "905",
+                            "Name": "Тысяча рабочих мест",
+                            "SymbolRu": "10³ раб. мест",
+                            "AlphaRu": "ТЫС РАБ МЕСТ"
+                        },
+                        {
+                            "Code": "906",
+                            "Name": "Посадочное место",
+                            "SymbolRu": "посад. мест",
+                            "AlphaRu": "ПОСАД МЕСТ"
+                        },
+                        {
+                            "Code": "907",
+                            "Name": "Тысяча посадочных мест",
+                            "SymbolRu": "10³ посад. мест",
+                            "AlphaRu": "ТЫС ПОСАД МЕСТ"
+                        },
+                        {
+                            "Code": "908",
+                            "Name": "Номер",
+                            "SymbolRu": "ном",
+                            "AlphaRu": "НОМ"
+                        },
+                        {
+                            "Code": "909",
+                            "Name": "Квартира",
+                            "SymbolRu": "кварт",
+                            "AlphaRu": "КВАРТ"
+                        },
+                        {
+                            "Code": "910",
+                            "Name": "Тысяча квартир",
+                            "SymbolRu": "10³ кварт",
+                            "AlphaRu": "ТЫС КВАРТ"
+                        },
+                        {
+                            "Code": "911",
+                            "Name": "Койка",
+                            "SymbolRu": "коек",
+                            "AlphaRu": "КОЕК"
+                        },
+                        {
+                            "Code": "912",
+                            "Name": "Тысяча коек",
+                            "SymbolRu": "10³ коек",
+                            "AlphaRu": "ТЫС КОЕК"
+                        },
+                        {
+                            "Code": "913",
+                            "Name": "Том книжного фонда",
+                            "SymbolRu": "том книжн. фонд",
+                            "AlphaRu": "ТОМ КНИЖН ФОНД"
+                        },
+                        {
+                            "Code": "914",
+                            "Name": "Тысяча томов книжного фонда",
+                            "SymbolRu": "10³ том книжн. фонд",
+                            "AlphaRu": "ТЫС ТОМ КНИЖН ФОНД"
+                        },
+                        {
+                            "Code": "915",
+                            "Name": "Условный ремонт",
+                            "SymbolRu": "усл. рем",
+                            "AlphaRu": "УСЛ РЕМ"
+                        },
+                        {
+                            "Code": "916",
+                            "Name": "Условный ремонт в год",
+                            "SymbolRu": "усл. рем\/год",
+                            "AlphaRu": "УСЛ РЕМ\/ГОД"
+                        },
+                        {
+                            "Code": "917",
+                            "Name": "Смена",
+                            "SymbolRu": "смен",
+                            "AlphaRu": "СМЕН"
+                        },
+                        {
+                            "Code": "918",
+                            "Name": "Лист авторский",
+                            "SymbolRu": "л. авт",
+                            "AlphaRu": "ЛИСТ АВТ"
+                        },
+                        {
+                            "Code": "920",
+                            "Name": "Лист печатный",
+                            "SymbolRu": "л. печ",
+                            "AlphaRu": "ЛИСТ ПЕЧ"
+                        },
+                        {
+                            "Code": "921",
+                            "Name": "Лист учетно-издательский",
+                            "SymbolRu": "л. уч.-изд",
+                            "AlphaRu": "ЛИСТ УЧ.ИЗД"
+                        },
+                        {
+                            "Code": "922",
+                            "Name": "Знак",
+                            "SymbolRu": "знак",
+                            "AlphaRu": "ЗНАК"
+                        },
+                        {
+                            "Code": "923",
+                            "Name": "Слово",
+                            "SymbolRu": "слово",
+                            "AlphaRu": "СЛОВО"
+                        },
+                        {
+                            "Code": "924",
+                            "Name": "Символ",
+                            "SymbolRu": "символ",
+                            "AlphaRu": "СИМВОЛ"
+                        },
+                        {
+                            "Code": "925",
+                            "Name": "Условная труба",
+                            "SymbolRu": "усл. труб",
+                            "AlphaRu": "УСЛ ТРУБ"
+                        },
+                        {
+                            "Code": "930",
+                            "Name": "Тысяча пластин",
+                            "SymbolRu": "10³ пласт",
+                            "AlphaRu": "ТЫС ПЛАСТ"
+                        },
+                        {
+                            "Code": "937",
+                            "Name": "Миллион доз",
+                            "SymbolRu": "10⁶ доз",
+                            "AlphaRu": "МЛН ДОЗ"
+                        },
+                        {
+                            "Code": "949",
+                            "Name": "Миллион листов-оттисков",
+                            "SymbolRu": "10⁶ лист·оттиск",
+                            "AlphaRu": "МЛН ЛИСТ ОТТИСК"
+                        },
+                        {
+                            "Code": "950",
+                            "Name": "Вагоно (машино)-день",
+                            "SymbolRu": "ваг (маш)·дн",
+                            "AlphaRu": "ВАГ (МАШ)·ДН"
+                        },
+                        {
+                            "Code": "951",
+                            "Name": "Тысяча вагоно (машино)-часов",
+                            "SymbolRu": "10³ ваг (маш)·ч",
+                            "AlphaRu": "ТЫС ВАГ (МАШ)·Ч"
+                        },
+                        {
+                            "Code": "952",
+                            "Name": "Тысяча вагоно (машино)-километров",
+                            "SymbolRu": "10³ ваг (маш)·км",
+                            "AlphaRu": "ТЫС ВАГ (МАШ)·КМ"
+                        },
+                        {
+                            "Code": "953",
+                            "Name": "Тысяча место-километров",
+                            "SymbolRu": "10³ мест·км",
+                            "AlphaRu": "ТЫС МЕСТ·КМ"
+                        },
+                        {
+                            "Code": "954",
+                            "Name": "Вагоно-сутки",
+                            "SymbolRu": "ваг·сут",
+                            "AlphaRu": "ВАГ·СУТ"
+                        },
+                        {
+                            "Code": "955",
+                            "Name": "Тысяча поездо-часов",
+                            "SymbolRu": "10³ поезд·ч",
+                            "AlphaRu": "ТЫС ПОЕЗД·Ч"
+                        },
+                        {
+                            "Code": "956",
+                            "Name": "Тысяча поездо-километров",
+                            "SymbolRu": "10³ поезд·км",
+                            "AlphaRu": "ТЫС ПОЕЗД·КМ"
+                        },
+                        {
+                            "Code": "957",
+                            "Name": "Тысяча тонно-миль",
+                            "SymbolRu": "10³ т·миль",
+                            "AlphaRu": "ТЫС Т·МИЛЬ"
+                        },
+                        {
+                            "Code": "958",
+                            "Name": "Тысяча пассажиро-миль",
+                            "SymbolRu": "10³ пасс·миль",
+                            "AlphaRu": "ТЫС ПАСС·МИЛЬ"
+                        },
+                        {
+                            "Code": "959",
+                            "Name": "Автомобиле-день",
+                            "SymbolRu": "автомоб·дн",
+                            "AlphaRu": "АВТОМОБ·ДН"
+                        },
+                        {
+                            "Code": "960",
+                            "Name": "Тысяча автомобиле-тонно-дней",
+                            "SymbolRu": "10³ автомоб·т·дн",
+                            "AlphaRu": "ТЫС АВТОМОБ·Т·ДН"
+                        },
+                        {
+                            "Code": "961",
+                            "Name": "Тысяча автомобиле-часов",
+                            "SymbolRu": "10³ автомоб·ч",
+                            "AlphaRu": "ТЫС АВТОМОБ·Ч"
+                        },
+                        {
+                            "Code": "962",
+                            "Name": "Тысяча автомобиле-место-дней",
+                            "SymbolRu": "10³ автомоб·мест·дн",
+                            "AlphaRu": "ТЫС АВТОМОБ·МЕСТ·ДН"
+                        },
+                        {
+                            "Code": "963",
+                            "Name": "Приведенный час",
+                            "SymbolRu": "привед. ч",
+                            "AlphaRu": "ПРИВЕД. Ч"
+                        },
+                        {
+                            "Code": "964",
+                            "Name": "Самолето-километр",
+                            "SymbolRu": "самолет·км",
+                            "AlphaRu": "САМОЛЕТ·КМ"
+                        },
+                        {
+                            "Code": "965",
+                            "Name": "Тысяча километров",
+                            "SymbolRu": "10³ км",
+                            "AlphaRu": "ТЫС КМ"
+                        },
+                        {
+                            "Code": "966",
+                            "Name": "Тысяча тоннаже-рейсов",
+                            "SymbolRu": "10³ тоннаж·рейс",
+                            "AlphaRu": "ТЫС ТОННАЖ·РЕЙС"
+                        },
+                        {
+                            "Code": "967",
+                            "Name": "Миллион тонно-миль",
+                            "SymbolRu": "10⁶ т·миль",
+                            "AlphaRu": "МЛН Т·МИЛЬ"
+                        },
+                        {
+                            "Code": "968",
+                            "Name": "Миллион пассажиро-миль",
+                            "SymbolRu": "10⁶ пасс·миль",
+                            "AlphaRu": "МЛН ПАСС·МИЛЬ"
+                        },
+                        {
+                            "Code": "969",
+                            "Name": "Миллион тоннаже-миль",
+                            "SymbolRu": "10⁶ тоннаж·миль",
+                            "AlphaRu": "МЛН ТОННАЖ·МИЛЬ"
+                        },
+                        {
+                            "Code": "970",
+                            "Name": "Миллион пассажиро-место-миль",
+                            "SymbolRu": "10⁶ пасс·мест·миль",
+                            "AlphaRu": "МЛН ПАСС·МЕСТ·МИЛЬ"
+                        },
+                        {
+                            "Code": "971",
+                            "Name": "Кормо-день",
+                            "SymbolRu": "корм·дн",
+                            "AlphaRu": "КОРМ·ДН"
+                        },
+                        {
+                            "Code": "972",
+                            "Name": "Центнер кормовых единиц",
+                            "SymbolRu": "ц корм ед",
+                            "AlphaRu": "Ц КОРМ ЕД"
+                        },
+                        {
+                            "Code": "973",
+                            "Name": "Тысяча автомобиле-километров",
+                            "SymbolRu": "10³ автомоб·км",
+                            "AlphaRu": "ТЫС АВТОМОБ·КМ"
+                        },
+                        {
+                            "Code": "974",
+                            "Name": "Тысяча тоннаже-суток",
+                            "SymbolRu": "10³ тоннаж·сут",
+                            "AlphaRu": "ТЫС ТОННАЖ·СУТ"
+                        },
+                        {
+                            "Code": "975",
+                            "Name": "Суго-сутки",
+                            "SymbolRu": "суго·сут",
+                            "AlphaRu": "СУГО·СУТ"
+                        },
+                        {
+                            "Code": "976",
+                            "Name": "Штука в 20-футовом эквиваленте (ДФЭ)",
+                            "SymbolRu": "штук в 20-футовом эквиваленте",
+                            "AlphaRu": "ШТ В 20 ФУТ ЭКВИВ"
+                        },
+                        {
+                            "Code": "977",
+                            "Name": "Канало-километр",
+                            "SymbolRu": "канал·км",
+                            "AlphaRu": "КАНАЛ·КМ"
+                        },
+                        {
+                            "Code": "978",
+                            "Name": "Канало-концы",
+                            "SymbolRu": "канал·конц",
+                            "AlphaRu": "КАНАЛ·КОНЦ"
+                        },
+                        {
+                            "Code": "979",
+                            "Name": "Тысяча экземпляров",
+                            "SymbolRu": "10³ экз",
+                            "AlphaRu": "ТЫС ЭКЗ"
+                        },
+                        {
+                            "Code": "980",
+                            "Name": "Тысяча долларов",
+                            "SymbolRu": "10³ доллар",
+                            "AlphaRu": "ТЫС ДОЛЛАР"
+                        },
+                        {
+                            "Code": "981",
+                            "Name": "Тысяча тонн кормовых единиц",
+                            "SymbolRu": "10³ корм ед",
+                            "AlphaRu": "ТЫС Т КОРМ ЕД"
+                        },
+                        {
+                            "Code": "982",
+                            "Name": "Миллион тонн кормовых единиц",
+                            "SymbolRu": "10⁶ корм ед",
+                            "AlphaRu": "МЛН Т КОРМ ЕД"
+                        },
+                        {
+                            "Code": "983",
+                            "Name": "Судо-сутки",
+                            "SymbolRu": "суд·сут",
+                            "AlphaRu": "СУД·СУТ"
+                        },
+                        {
+                            "Code": "984",
+                            "Name": "Центнеров с гектара",
+                            "SymbolRu": "ц\/га",
+                            "AlphaRu": "Ц\/ГА"
+                        },
+                        {
+                            "Code": "985",
+                            "Name": "Тысяча голов",
+                            "SymbolRu": "10³ гол",
+                            "AlphaRu": "ТЫС ГОЛ"
+                        },
+                        {
+                            "Code": "986",
+                            "Name": "Тысяча краско-оттисков",
+                            "SymbolRu": "10³ краск·оттиск",
+                            "AlphaRu": "ТЫС КРАСК ОТТИСК"
+                        },
+                        {
+                            "Code": "987",
+                            "Name": "Миллион краско-оттисков",
+                            "SymbolRu": "10⁶ краск·оттиск",
+                            "AlphaRu": "МЛН КРАСК ОТТИСК"
+                        },
+                        {
+                            "Code": "988",
+                            "Name": "Миллион условных плиток",
+                            "SymbolRu": "10⁶ усл. плит",
+                            "AlphaRu": "МЛН УСЛ ПЛИТ"
+                        },
+                        {
+                            "Code": "989",
+                            "Name": "Человек в час",
+                            "SymbolRu": "чел\/ч",
+                            "AlphaRu": "ЧЕЛ\/Ч"
+                        },
+                        {
+                            "Code": "990",
+                            "Name": "Пассажиров в час",
+                            "SymbolRu": "пасс\/ч",
+                            "AlphaRu": "ПАСС\/Ч"
+                        },
+                        {
+                            "Code": "991",
+                            "Name": "Пассажиро-миля",
+                            "SymbolRu": "пасс·миля",
+                            "AlphaRu": "ПАСС МИЛЯ"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionName": "Четырехзначные национальные единицы измерения, включенные в ОКЕИ",
+            "Groups": [
+                {
+                    "GroupName": "Технические единицы",
+                    "Uoms": [
+                        {
+                            "Code": "2311",
+                            "Name": "Грей в секунду",
+                            "SymbolRu": "Гр\/с",
+                            "AlphaRu": "ГР\/С"
+                        },
+                        {
+                            "Code": "2312",
+                            "Name": "Грей в минуту",
+                            "SymbolRu": "Гр\/мин",
+                            "AlphaRu": "ГР\/МИН"
+                        },
+                        {
+                            "Code": "2313",
+                            "Name": "Грей в час",
+                            "SymbolRu": "Гр\/ч",
+                            "AlphaRu": "ГР\/Ч"
+                        },
+                        {
+                            "Code": "2314",
+                            "Name": "Микрогрей в секунду",
+                            "SymbolRu": "мкГр\/с",
+                            "AlphaRu": "МКГР\/С"
+                        },
+                        {
+                            "Code": "2315",
+                            "Name": "Микрогрей в час",
+                            "SymbolRu": "мкГр\/ч",
+                            "AlphaRu": "МКГР\/Ч"
+                        },
+                        {
+                            "Code": "2316",
+                            "Name": "Миллигрей в час",
+                            "SymbolRu": "мГр\/ч",
+                            "AlphaRu": "МЛГР\/Ч"
+                        },
+                        {
+                            "Code": "2351",
+                            "Name": "Зиверт в час",
+                            "SymbolRu": "Зв\/ч",
+                            "AlphaRu": "ЗВ\/Ч"
+                        },
+                        {
+                            "Code": "2352",
+                            "Name": "Микрозиверт в секунду",
+                            "SymbolRu": "мкЗв\/с",
+                            "AlphaRu": "МКЗВ\/С"
+                        },
+                        {
+                            "Code": "2353",
+                            "Name": "Микрозиверт в час",
+                            "SymbolRu": "мкЗв\/ч",
+                            "AlphaRu": "МКЗВ\/Ч"
+                        },
+                        {
+                            "Code": "2354",
+                            "Name": "Миллизиверт в час",
+                            "SymbolRu": "мЗв\/ч",
+                            "AlphaRu": "МЛЗВ\/Ч"
+                        },
+                        {
+                            "Code": "2541",
+                            "Name": "Бит в секунду",
+                            "SymbolRu": "бит\/с",
+                            "AlphaRu": "БИТ\/С"
+                        },
+                        {
+                            "Code": "2543",
+                            "Name": "Килобит в секунду",
+                            "SymbolRu": "кбит\/с",
+                            "AlphaRu": "КБИТ\/С"
+                        },
+                        {
+                            "Code": "2545",
+                            "Name": "Мегабит в секунду",
+                            "SymbolRu": "Мбит\/с",
+                            "AlphaRu": "МБИТ\/С"
+                        },
+                        {
+                            "Code": "2547",
+                            "Name": "Гигабит в секунду",
+                            "SymbolRu": "Гбит\/с",
+                            "AlphaRu": "ГБИТ\/С"
+                        },
+                        {
+                            "Code": "2551",
+                            "Name": "Байт в секунду",
+                            "SymbolRu": "Байт\/с",
+                            "AlphaRu": "БАЙТ\/С"
+                        },
+                        {
+                            "Code": "2552",
+                            "Name": "Гигабайт в секунду",
+                            "SymbolRu": "Гбайт\/с",
+                            "AlphaRu": "ГБАЙТ\/С"
+                        },
+                        {
+                            "Code": "2553",
+                            "Name": "Гигабайт",
+                            "SymbolRu": "Гбайт",
+                            "AlphaRu": "ГБАЙТ"
+                        },
+                        {
+                            "Code": "2554",
+                            "Name": "Терабайт",
+                            "SymbolRu": "Тбайт",
+                            "AlphaRu": "ТБАЙТ"
+                        },
+                        {
+                            "Code": "2555",
+                            "Name": "Петабайт",
+                            "SymbolRu": "Пбайт",
+                            "AlphaRu": "ПБАЙТ"
+                        },
+                        {
+                            "Code": "2556",
+                            "Name": "Эксабайт",
+                            "SymbolRu": "Эбайт",
+                            "AlphaRu": "ЭБАЙТ"
+                        },
+                        {
+                            "Code": "2557",
+                            "Name": "Зеттабайт",
+                            "SymbolRu": "Збайт",
+                            "AlphaRu": "ЗБАЙТ"
+                        },
+                        {
+                            "Code": "2558",
+                            "Name": "Йоттабайт",
+                            "SymbolRu": "Йбайт",
+                            "AlphaRu": "ЙБАЙТ"
+                        },
+                        {
+                            "Code": "2561",
+                            "Name": "Килобайт в секунду",
+                            "SymbolRu": "кбайт\/с",
+                            "AlphaRu": "КБАЙТ\/С"
+                        },
+                        {
+                            "Code": "2571",
+                            "Name": "Мегабайт в секунду",
+                            "SymbolRu": "Мбайт\/с",
+                            "AlphaRu": "МБАЙТ\/С"
+                        },
+                        {
+                            "Code": "2581",
+                            "Name": "Эрланг",
+                            "SymbolRu": "Эрл",
+                            "AlphaRu": "ЭРЛАНГ"
+                        },
+                        {
+                            "Code": "2931",
+                            "Name": "Гигагерц",
+                            "SymbolRu": "ГГц",
+                            "AlphaRu": "ГИГАГЦ"
+                        },
+                        {
+                            "Code": "3135",
+                            "Name": "Децибел",
+                            "SymbolRu": "дБ",
+                            "AlphaRu": "ДЕЦИБЕЛ"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Экономические единицы",
+                    "Uoms": [
+                        {
+                            "Code": "3831",
+                            "Name": "Рубль тонна",
+                            "SymbolRu": "руб. тонна",
+                            "AlphaRu": "РУБ ТОННА"
+                        },
+                        {
+                            "Code": "5401",
+                            "Name": "Дето-день",
+                            "SymbolRu": "дет·дн",
+                            "AlphaRu": "ДЕТ ДН"
+                        },
+                        {
+                            "Code": "5423",
+                            "Name": "Человек в год",
+                            "SymbolRu": "чел\/год",
+                            "AlphaRu": "ЧЕЛ\/ГОД"
+                        },
+                        {
+                            "Code": "5451",
+                            "Name": "Посещение",
+                            "SymbolRu": "посещ",
+                            "AlphaRu": "ПОСЕЩ"
+                        },
+                        {
+                            "Code": "5562",
+                            "Name": "Тысяча гнезд",
+                            "SymbolRu": "10³ гнезд",
+                            "AlphaRu": "ТЫС ГНЕЗД"
+                        },
+                        {
+                            "Code": "6421",
+                            "Name": "Единиц в год",
+                            "SymbolRu": "ед\/год",
+                            "AlphaRu": "ЕД\/ГОД"
+                        },
+                        {
+                            "Code": "6422",
+                            "Name": "Вызов",
+                            "SymbolRu": "вызов",
+                            "AlphaRu": "ВЫЗОВ"
+                        },
+                        {
+                            "Code": "6423",
+                            "Name": "Посевная единица",
+                            "SymbolRu": "пос. ед",
+                            "AlphaRu": "ПОС ЕД"
+                        },
+                        {
+                            "Code": "6424",
+                            "Name": "Штамм",
+                            "SymbolRu": "штамм",
+                            "AlphaRu": "ШТАММ"
+                        },
+                        {
+                            "Code": "7923",
+                            "Name": "Абонент",
+                            "SymbolRu": "Абонент",
+                            "AlphaRu": "АБОНЕНТ"
+                        },
+                        {
+                            "Code": "8361",
+                            "Name": "Особь",
+                            "SymbolRu": "ос",
+                            "AlphaRu": "ОСОБЬ"
+                        },
+                        {
+                            "Code": "8751",
+                            "Name": "Коробка",
+                            "SymbolRu": "кор",
+                            "AlphaRu": "КОР"
+                        },
+                        {
+                            "Code": "9061",
+                            "Name": "Миллион гектаров",
+                            "SymbolRu": "10⁶ га",
+                            "AlphaRu": "МЛН ГА"
+                        },
+                        {
+                            "Code": "9062",
+                            "Name": "Миллиард гектаров",
+                            "SymbolRu": "10⁹ га",
+                            "AlphaRu": "МЛРД ГА"
+                        },
+                        {
+                            "Code": "9111",
+                            "Name": "Койко-день",
+                            "SymbolRu": "койк·дн",
+                            "AlphaRu": "КОЙК ДН"
+                        },
+                        {
+                            "Code": "9113",
+                            "Name": "Пациенто-день",
+                            "SymbolRu": "пациент·дн",
+                            "AlphaRu": "ПАЦИЕНТ ДН"
+                        },
+                        {
+                            "Code": "9245",
+                            "Name": "Запись",
+                            "SymbolRu": "запись",
+                            "AlphaRu": "ЗАПИСЬ"
+                        },
+                        {
+                            "Code": "9246",
+                            "Name": "Документ",
+                            "SymbolRu": "докум",
+                            "AlphaRu": "ДОКУМ"
+                        },
+                        {
+                            "Code": "9491",
+                            "Name": "Лист-оттиск",
+                            "SymbolRu": "лист·оттиск",
+                            "AlphaRu": "ЛИСТ ОТТИСК"
+                        },
+                        {
+                            "Code": "9501",
+                            "Name": "Вагоно (машино)-час",
+                            "SymbolRu": "ваг (маш)·ч",
+                            "AlphaRu": "ВАГ (МАШ)·Ч"
+                        },
+                        {
+                            "Code": "9557",
+                            "Name": "Миллион голов",
+                            "SymbolRu": "10⁶ гол",
+                            "AlphaRu": "МЛН ГОЛ"
+                        },
+                        {
+                            "Code": "9641",
+                            "Name": "Летный час",
+                            "SymbolRu": "летн. ч",
+                            "AlphaRu": "ЛЕТН Ч"
+                        },
+                        {
+                            "Code": "9642",
+                            "Name": "Балл",
+                            "SymbolRu": "балл",
+                            "AlphaRu": "БАЛЛ"
+                        },
+                        {
+                            "Code": "9802",
+                            "Name": "Миллион долларов",
+                            "SymbolRu": "10⁶ доллар",
+                            "AlphaRu": "МЛН ДОЛЛАР"
+                        },
+                        {
+                            "Code": "9803",
+                            "Name": "Миллиард долларов",
+                            "SymbolRu": "10⁹ доллар",
+                            "AlphaRu": "МЛРД ДОЛЛАР"
+                        },
+                        {
+                            "Code": "9805",
+                            "Name": "Доллар за тонну",
+                            "SymbolRu": "доллар за тонну",
+                            "AlphaRu": "ДОЛЛАР ЗА ТОННУ"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Дозировки лекарственных препаратов",
+                    "Uoms": [
+                        {
+                            "Code": "9910",
+                            "Name": "Международная единица биологической активности",
+                            "SymbolRu": "МЕ",
+                            "AlphaRu": "МЕ"
+                        },
+                        {
+                            "Code": "9911",
+                            "Name": "Тысяча международных единиц биологической активности",
+                            "SymbolRu": "тыс. МЕ",
+                            "AlphaRu": "ТЫС. МЕ"
+                        },
+                        {
+                            "Code": "9912",
+                            "Name": "Миллион международных единиц биологической активности",
+                            "SymbolRu": "млн. МЕ",
+                            "AlphaRu": "МЛН. МЕ"
+                        },
+                        {
+                            "Code": "9913",
+                            "Name": "Международная единица биологической активности на грамм",
+                            "SymbolRu": "МЕ\/г",
+                            "AlphaRu": "МЕ\/Г"
+                        },
+                        {
+                            "Code": "9914",
+                            "Name": "Тысяча международных единиц биологической активности на грамм",
+                            "SymbolRu": "тыс. МЕ\/г",
+                            "AlphaRu": "ТЫС. МЕ\/Г"
+                        },
+                        {
+                            "Code": "9915",
+                            "Name": "Миллион международных единиц биологической активности на грамм",
+                            "SymbolRu": "млн. МЕ\/г",
+                            "AlphaRu": "МЛН. МЕ\/Г"
+                        },
+                        {
+                            "Code": "9916",
+                            "Name": "Международная единица биологической активности на миллилитр",
+                            "SymbolRu": "МЕ\/мл",
+                            "AlphaRu": "МЕ\/МЛ"
+                        },
+                        {
+                            "Code": "9917",
+                            "Name": "Тысяча международных единиц биологической активности на миллилитр",
+                            "SymbolRu": "тыс. МЕ\/мл",
+                            "AlphaRu": "ТЫС. МЕ\/МЛ"
+                        },
+                        {
+                            "Code": "9918",
+                            "Name": "Миллион международных единиц биологической активности на миллилитр",
+                            "SymbolRu": "млн. МЕ\/мл",
+                            "AlphaRu": "МЛН. МЕ\/МЛ"
+                        },
+                        {
+                            "Code": "9920",
+                            "Name": "Единица действия биологической активности",
+                            "SymbolRu": "ЕД",
+                            "AlphaRu": "ЕД"
+                        },
+                        {
+                            "Code": "9921",
+                            "Name": "Единица действия биологической активности на грамм",
+                            "SymbolRu": "ЕД\/г",
+                            "AlphaRu": "ЕД\/Г"
+                        },
+                        {
+                            "Code": "9922",
+                            "Name": "Тысяча единиц действия биологической активности на грамм",
+                            "SymbolRu": "тыс. ЕД\/г",
+                            "AlphaRu": "ТЫС. ЕД\/Г"
+                        },
+                        {
+                            "Code": "9923",
+                            "Name": "Единица действия биологической активности на микролитр",
+                            "SymbolRu": "ЕД\/мкл",
+                            "AlphaRu": "ЕД\/МКЛ"
+                        },
+                        {
+                            "Code": "9924",
+                            "Name": "Единица действия биологической активности на миллилитр",
+                            "SymbolRu": "ЕД\/мл",
+                            "AlphaRu": "ЕД\/МЛ"
+                        },
+                        {
+                            "Code": "9925",
+                            "Name": "Тысяча единиц действия биологической активности на миллилитр",
+                            "SymbolRu": "тыс. ЕД\/мл",
+                            "AlphaRu": "ТЫС. ЕД\/МЛ"
+                        },
+                        {
+                            "Code": "9926",
+                            "Name": "Миллион единиц действия биологической активности на миллилитр",
+                            "SymbolRu": "млн. ЕД\/мл",
+                            "AlphaRu": "МЛН. ЕД\/МЛ"
+                        },
+                        {
+                            "Code": "9927",
+                            "Name": "Единица действия биологической активности в сутки",
+                            "SymbolRu": "ЕД\/сут",
+                            "AlphaRu": "ЕД\/СУТ"
+                        },
+                        {
+                            "Code": "9930",
+                            "Name": "Антитоксическая единица",
+                            "SymbolRu": "АЕ",
+                            "AlphaRu": "АЕ"
+                        },
+                        {
+                            "Code": "9931",
+                            "Name": "Тысяча антитоксических единиц",
+                            "SymbolRu": "тыс. АЕ",
+                            "AlphaRu": "ТЫС. АЕ"
+                        },
+                        {
+                            "Code": "9940",
+                            "Name": "Антитрипсиновая единица",
+                            "SymbolRu": "АТрЕ",
+                            "AlphaRu": "АТРЕ"
+                        },
+                        {
+                            "Code": "9941",
+                            "Name": "Тысяча антитрипсиновых единиц",
+                            "SymbolRu": "тыс. АТрЕ",
+                            "AlphaRu": "ТЫС. АТРЕ"
+                        },
+                        {
+                            "Code": "9950",
+                            "Name": "Индекс Реактивности",
+                            "SymbolRu": "ИР",
+                            "AlphaRu": "ИР"
+                        },
+                        {
+                            "Code": "9951",
+                            "Name": "Индекс Реактивности на миллилитр",
+                            "SymbolRu": "ИР\/мл",
+                            "AlphaRu": "ИР\/МЛ"
+                        },
+                        {
+                            "Code": "9960",
+                            "Name": "Килобеккерель на миллилитр",
+                            "SymbolRu": "кБк\/мл",
+                            "AlphaRu": "КИЛОБК\/МЛ"
+                        },
+                        {
+                            "Code": "9961",
+                            "Name": "Мегабеккерель на миллилитр",
+                            "SymbolRu": "МБк\/мл",
+                            "AlphaRu": "МЕГАБК\/МЛ"
+                        },
+                        {
+                            "Code": "9962",
+                            "Name": "Мегабеккерель на метр квадратный",
+                            "SymbolRu": "МБк\/м²",
+                            "AlphaRu": "МЕГАБК\/М2"
+                        },
+                        {
+                            "Code": "9970",
+                            "Name": "Калликреиновая ингибирующая единица на миллилитр",
+                            "SymbolRu": "КИЕ\/мл",
+                            "AlphaRu": "КИЕ\/МЛ"
+                        },
+                        {
+                            "Code": "9971",
+                            "Name": "Тысяча калликреиновых ингибирующих единиц на миллилитр",
+                            "SymbolRu": "тыс. КИЕ\/мл",
+                            "AlphaRu": "ТЫС. КИЕ\/МЛ"
+                        },
+                        {
+                            "Code": "9980",
+                            "Name": "Миллион колониеобразуюших единиц",
+                            "SymbolRu": "млн. КОЕ",
+                            "AlphaRu": "МЛН. КОЕ"
+                        },
+                        {
+                            "Code": "9981",
+                            "Name": "Миллион колониеобразующих единиц на пакет",
+                            "SymbolRu": "млн. КОЕ\/пакет",
+                            "AlphaRu": "МЛН. КОЕ\/ПАКЕТ"
+                        },
+                        {
+                            "Code": "9982",
+                            "Name": "Миллиард колониеобразующих единиц",
+                            "SymbolRu": "млрд. КОЕ",
+                            "AlphaRu": "МЛРД. КОЕ"
+                        },
+                        {
+                            "Code": "9983",
+                            "Name": "Протеолитическая единица",
+                            "SymbolRu": "ПЕ",
+                            "AlphaRu": "ПЕ"
+                        },
+                        {
+                            "Code": "9985",
+                            "Name": "Микрограмм на миллилитр",
+                            "SymbolRu": "Мкг\/мл",
+                            "AlphaRu": "МКГ\/МЛ"
+                        },
+                        {
+                            "Code": "9986",
+                            "Name": "Микрограмм в сутки",
+                            "SymbolRu": "Мкг\/сут",
+                            "AlphaRu": "МКГ\/СУТ"
+                        },
+                        {
+                            "Code": "9987",
+                            "Name": "Микрограмм в час",
+                            "SymbolRu": "Мкг\/ч",
+                            "AlphaRu": "МКГ\/Ч"
+                        },
+                        {
+                            "Code": "9988",
+                            "Name": "Микрограмм на дозу",
+                            "SymbolRu": "Мкг\/доза",
+                            "AlphaRu": "МКГ\/ДОЗА"
+                        },
+                        {
+                            "Code": "9990",
+                            "Name": "Миллимоль на миллилитр",
+                            "SymbolRu": "ммоль\/мл",
+                            "AlphaRu": "ММОЛЬ\/МЛ"
+                        },
+                        {
+                            "Code": "9991",
+                            "Name": "Миллимоль на литр",
+                            "SymbolRu": "ммоль\/л",
+                            "AlphaRu": "ММОЛЬ\/Л"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
